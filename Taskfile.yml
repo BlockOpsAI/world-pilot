@@ -1,0 +1,49 @@
+version: '3'
+
+silent: true
+
+vars:
+  APP_SLUG: worldpilot
+  DISPLAY_NAME: WorldPilot
+  ORG: com.nablustudio
+  PACKAGE: com.nablustudio.worldpilot
+  FLUTTER_PROJECT: mobile
+  FIREBASE_PROJECT: nubla-studio
+  FIREBASE_APP_ID: 1:361100627361:android:22481e395e36e5ef8d8fe0
+  FIREBASE_GROUP: qa-interne
+  DEFAULT_TESTERS: brunodelb@gmail.com
+  APK_PATH: mobile/build/app/outputs/flutter-apk/app-release.apk
+
+tasks:
+  mobile:build:
+    desc: Compile l'APK release Android
+    dir: '{{.FLUTTER_PROJECT}}'
+    cmds:
+      - flutter build apk --release
+
+  mobile:distribute:
+    desc: Publie l'APK release sur Firebase App Distribution (App Tester Android)
+    vars:
+      PROJECT_ID: '{{default .FIREBASE_PROJECT .PROJECT}}'
+      APP_ID: '{{default .FIREBASE_APP_ID .APP_ID}}'
+      GROUP: '{{default .FIREBASE_GROUP .GROUP}}'
+      APK: '{{default .APK_PATH .APK}}'
+      RELEASE_NOTES: '{{default "Nouvelle version WorldPilot Mobile" .NOTES}}'
+    preconditions:
+      - sh: test -f "{{.APK}}"
+        msg: APK introuvable. Lance d'abord `task mobile:build`.
+    cmds:
+      - >
+        firebase appdistribution:distribute "{{.APK}}"
+        --app "{{.APP_ID}}"
+        --project "{{.PROJECT_ID}}"
+        --groups "{{.GROUP}}"
+        --release-notes "{{.RELEASE_NOTES}}"
+
+  mobile:redeploy:
+    desc: Build puis distribue l'APK vers Firebase App Distribution
+    cmds:
+      - task: mobile:build
+      - task: mobile:distribute
+        vars:
+          NOTES: '{{.NOTES}}'

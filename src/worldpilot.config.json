@@ -1,0 +1,36 @@
+{
+  "llm_provider": "deepseek",
+  "inventory": {
+    "models": {
+      "livre_1": "/3d-objects/book-1.glb",
+      "livre_2": "/3d-objects/book-2.glb",
+      "livre_3": "/3d-objects/book-3.glb",
+      "bougie_grande": "/3d-objects/candle-big.glb",
+      "bougie_moyenne": "/3d-objects/candle-medium.glb",
+      "bougie_petite": "/3d-objects/candle-small.glb",
+      "globe_terrestre": "/3d-objects/earth-globe.glb",
+      "cheminee": "/3d-objects/fireplace.glb",
+      "sol_en_pierre": "/3d-objects/stone-ground.glb",
+      "mur": "/3d-objects/wall.glb",
+      "casque_victoria_vr": "/3d-objects/helmet.glb",
+      "canard_en_plastique": "/3d-objects/duck.glb",
+      "voiture_berline": "/library/wp-voiture.glb",
+      "batterie_automobile": "/library/wp-batterie-automobile.glb",
+      "caisse_en_bois": "/3d-objects/box.glb"
+    },
+    "textures": {
+      "texture_lave": "/textures/lava.jpg",
+      "texture_grille_uv": "/textures/lava.jpg",
+      "texture_globe_terrestre": "/textures/earth.jpg",
+      "texture_eau": "/textures/water.jpg"
+    },
+    "webhooks": {
+      "webhook_mint_nft": "https://api.victoriavr.com/mint"
+    },
+    "pages": {
+      "victoria_vr_home": "https://www.victoriavr.com/",
+      "victoria_vr_news": "https://www.victoriavr.com/news",
+      "victoria_vr_ai_builder": "https://www.victoriavr.com/news/ai-builder-hackathon-2026-the-building-period-2042daf3"
+    }
+  }
+}

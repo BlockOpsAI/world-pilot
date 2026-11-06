@@ -1,0 +1,5942 @@
+[
+  {
+    "id": "objectives",
+    "name": "Panneau d’objectifs",
+    "category": "Structurer",
+    "bytes": 300412,
+    "bounds": [
+      1.6799999475479126,
+      1.8649999853968622,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "instructions",
+    "name": "Borne de consignes",
+    "category": "Structurer",
+    "bytes": 208424,
+    "bounds": [
+      0.7200000286102295,
+      1.4499999991059302,
+      0.5
+    ]
+  },
+  {
+    "id": "path",
+    "name": "Parcours à étapes",
+    "category": "Structurer",
+    "bytes": 353792,
+    "bounds": [
+      2.26000000834465,
+      0.09449999893829225,
+      0.46000000834465027
+    ]
+  },
+  {
+    "id": "label",
+    "name": "Étiquette 3D",
+    "category": "Expliquer",
+    "bytes": 186884,
+    "bounds": [
+      0.8799999952316284,
+      1.315000002682209,
+      0.25
+    ]
+  },
+  {
+    "id": "arrow",
+    "name": "Flèche directionnelle",
+    "category": "Expliquer",
+    "bytes": 31932,
+    "bounds": [
+      1.2000000089406968,
+      0.41569218039512645,
+      0.35999999195337296
+    ]
+  },
+  {
+    "id": "cutaway",
+    "name": "Modèle en coupe",
+    "category": "Expliquer",
+    "bytes": 155516,
+    "bounds": [
+      0.8999999761581421,
+      1.1249999994784594,
+      0.8999999761581421
+    ]
+  },
+  {
+    "id": "pump",
+    "name": "Pompe démontable",
+    "category": "Manipuler",
+    "bytes": 402692,
+    "bounds": [
+      1.5074999998509884,
+      0.9500000038743018,
+      0.8900000050663948
+    ]
+  },
+  {
+    "id": "instructor",
+    "name": "Mannequin instructeur",
+    "category": "Démontrer",
+    "bytes": 173548,
+    "bounds": [
+      0.7400000005960464,
+      1.7880000000447036,
+      0.5600000023841858
+    ]
+  },
+  {
+    "id": "hands",
+    "name": "Mains de démonstration",
+    "category": "Démontrer",
+    "bytes": 322480,
+    "bounds": [
+      0.8500000238418579,
+      0.2561069838305852,
+      0.5329591853062028
+    ]
+  },
+  {
+    "id": "assembly",
+    "name": "Pièces à assembler",
+    "category": "Manipuler",
+    "bytes": 154920,
+    "bounds": [
+      1.5,
+      0.6749999991059303,
+      0.800000011920929
+    ]
+  },
+  {
+    "id": "socket",
+    "name": "Emplacement d’accroche",
+    "category": "Manipuler",
+    "bytes": 88456,
+    "bounds": [
+      0.800000011920929,
+      0.13799999833107,
+      0.800000011920929
+    ]
+  },
+  {
+    "id": "ruler",
+    "name": "Règle graduée",
+    "category": "Mesurer",
+    "bytes": 652584,
+    "bounds": [
+      1,
+      0.027500000233761968,
+      0.14000000059604645
+    ]
+  },
+  {
+    "id": "balance",
+    "name": "Balance à plateaux",
+    "category": "Mesurer",
+    "bytes": 86608,
+    "bounds": [
+      1.4000000059604645,
+      0.9932297946761877,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "timer",
+    "name": "Chronomètre",
+    "category": "Mesurer",
+    "bytes": 194708,
+    "bounds": [
+      0.800000011920929,
+      0.5499999995529652,
+      0.18000000715255737
+    ]
+  },
+  {
+    "id": "thermometer",
+    "name": "Thermomètre",
+    "category": "Mesurer",
+    "bytes": 442576,
+    "bounds": [
+      0.3499999940395355,
+      1.3249999991059302,
+      0.26500000029802323
+    ]
+  },
+  {
+    "id": "workbench",
+    "name": "Poste de travail",
+    "category": "Pratiquer",
+    "bytes": 1464484,
+    "bounds": [
+      2,
+      1.8000000178813933,
+      0.8720000060647726
+    ]
+  },
+  {
+    "id": "tools",
+    "name": "Outils de manipulation",
+    "category": "Pratiquer",
+    "bytes": 99976,
+    "bounds": [
+      0.8500000238418579,
+      0.1499999998509884,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "cards",
+    "name": "Cartes de réponse",
+    "category": "Évaluer",
+    "bytes": 267716,
+    "bounds": [
+      1.2999999952316283,
+      0.5600000023841858,
+      0.052499999962747096
+    ]
+  },
+  {
+    "id": "sorting",
+    "name": "Bacs de classement",
+    "category": "Évaluer",
+    "bytes": 444892,
+    "bounds": [
+      1.6750000001490115,
+      0.4674999941140413,
+      0.5150000001490116
+    ]
+  },
+  {
+    "id": "quiz",
+    "name": "Boutons de quiz",
+    "category": "Évaluer",
+    "bytes": 232904,
+    "bounds": [
+      1,
+      1.135000002682209,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "success",
+    "name": "Indicateur de réussite",
+    "category": "Accompagner",
+    "bytes": 62984,
+    "bounds": [
+      0.4000000059604645,
+      1.335,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "highlight",
+    "name": "Cadre de surlignage",
+    "category": "Accompagner",
+    "bytes": 148740,
+    "bounds": [
+      1.399999976158142,
+      1.2699999986588955,
+      0.30000001192092896
+    ]
+  },
+  {
+    "id": "help",
+    "name": "Borne d’aide",
+    "category": "Accompagner",
+    "bytes": 266612,
+    "bounds": [
+      0.7200000286102295,
+      1.4499999991059302,
+      0.5
+    ]
+  },
+  {
+    "id": "notes",
+    "name": "Notes repositionnables",
+    "category": "Collaborer",
+    "bytes": 402380,
+    "bounds": [
+      1.4800000190734863,
+      1.7400000207871198,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "token",
+    "name": "Jeton de parole",
+    "category": "Collaborer",
+    "bytes": 64056,
+    "bounds": [
+      0.2800000011920929,
+      0.3850000044703483,
+      0.2800000011920929
+    ]
+  },
+  {
+    "id": "whiteboard",
+    "name": "Tableau partagé",
+    "category": "Collaborer",
+    "bytes": 384144,
+    "bounds": [
+      1.6799999475479126,
+      1.8649999853968622,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "lectern",
+    "name": "Pupitre d’élève",
+    "category": "Restituer",
+    "bytes": 235544,
+    "bounds": [
+      0.7200000286102295,
+      1.584999999254942,
+      0.5
+    ]
+  },
+  {
+    "id": "display",
+    "name": "Présentoir de réalisations",
+    "category": "Restituer",
+    "bytes": 89480,
+    "bounds": [
+      1.750000011920929,
+      1.100000023841858,
+      0.6499999761581421
+    ]
+  },
+  {
+    "id": "captions",
+    "name": "Panneau de sous-titres",
+    "category": "Accessibilité",
+    "bytes": 300364,
+    "bounds": [
+      1.9800000190734863,
+      1.6649999973177911,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "audio",
+    "name": "Lecteur audio",
+    "category": "Accessibilité",
+    "bytes": 84224,
+    "bounds": [
+      0.550000011920929,
+      0.75,
+      0.3700000064074993
+    ]
+  },
+  {
+    "id": "meeting-table",
+    "name": "Table de réunion",
+    "category": "Réunions",
+    "bytes": 210560,
+    "bounds": [
+      2.799999952316284,
+      0.7729999998286367,
+      1.2000000476837158
+    ]
+  },
+  {
+    "id": "office-chair",
+    "name": "Fauteuil de bureau",
+    "category": "Réunions",
+    "bytes": 373096,
+    "bounds": [
+      0.6650000008940696,
+      1.0679345519627756,
+      0.6450982746972102
+    ]
+  },
+  {
+    "id": "mobile-board",
+    "name": "Tableau blanc mobile",
+    "category": "Réunions",
+    "bytes": 384148,
+    "bounds": [
+      1.6799999475479126,
+      1.8649999853968622,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "wall-screen",
+    "name": "Écran mural",
+    "category": "Réunions",
+    "bytes": 178456,
+    "bounds": [
+      1.9800000190734863,
+      1.1399999856948853,
+      0.26800000317022205
+    ]
+  },
+  {
+    "id": "presentation",
+    "name": "Pupitre de présentation",
+    "category": "Réunions",
+    "bytes": 235548,
+    "bounds": [
+      0.7200000286102295,
+      1.584999999254942,
+      0.5
+    ]
+  },
+  {
+    "id": "pedestal",
+    "name": "Socle d’exposition",
+    "category": "Boutiques",
+    "bytes": 59848,
+    "bounds": [
+      1.0199999809265137,
+      0.800000011920929,
+      1.0199999809265137
+    ]
+  },
+  {
+    "id": "shelf",
+    "name": "Étagère commerciale",
+    "category": "Boutiques",
+    "bytes": 269456,
+    "bounds": [
+      1.5,
+      1.7999999759346248,
+      0.5
+    ]
+  },
+  {
+    "id": "glass-case",
+    "name": "Vitrine en verre",
+    "category": "Boutiques",
+    "bytes": 276060,
+    "bounds": [
+      0.949999988079071,
+      1.7999999759346248,
+      0.6499999761581421
+    ]
+  },
+  {
+    "id": "mannequin",
+    "name": "Mannequin de présentation",
+    "category": "Boutiques",
+    "bytes": 173548,
+    "bounds": [
+      0.7400000005960464,
+      1.7880000000447036,
+      0.5600000023841858
+    ]
+  },
+  {
+    "id": "counter",
+    "name": "Comptoir de vente",
+    "category": "Boutiques",
+    "bytes": 89592,
+    "bounds": [
+      2.049999952316284,
+      1.325,
+      0.800000011920929
+    ]
+  },
+  {
+    "id": "fountain",
+    "name": "Fontaine en pierre",
+    "category": "Zen",
+    "bytes": 122292,
+    "bounds": [
+      1.2000000476837158,
+      1.1655000034086407,
+      1.2000000476837158
+    ]
+  },
+  {
+    "id": "sand-garden",
+    "name": "Jardin de sable",
+    "category": "Zen",
+    "bytes": 472436,
+    "bounds": [
+      1.5,
+      0.269999997317791,
+      1
+    ]
+  },
+  {
+    "id": "bonsai",
+    "name": "Bonsaï en pot",
+    "category": "Zen",
+    "bytes": 152796,
+    "bounds": [
+      0.8961719699089963,
+      0.8900000005960466,
+      0.7579665004974632
+    ]
+  },
+  {
+    "id": "lantern",
+    "name": "Lanterne japonaise",
+    "category": "Zen",
+    "bytes": 188320,
+    "bounds": [
+      1.2162236838713492,
+      1.1399999964237213,
+      1.2162236838713492
+    ]
+  },
+  {
+    "id": "cushion",
+    "name": "Coussin de méditation",
+    "category": "Zen",
+    "bytes": 48016,
+    "bounds": [
+      0.699999988079071,
+      0.265999995470047,
+      0.699999988079071
+    ]
+  },
+  {
+    "id": "breathing",
+    "name": "Sphère de respiration",
+    "category": "Bien-être",
+    "bytes": 77744,
+    "bounds": [
+      0.8299999833106995,
+      0.9649999907612801,
+      0.699999988079071
+    ]
+  },
+  {
+    "id": "pebble",
+    "name": "Galet sensoriel",
+    "category": "Bien-être",
+    "bytes": 19380,
+    "bounds": [
+      0.5,
+      0.2,
+      0.35
+    ]
+  },
+  {
+    "id": "emotions",
+    "name": "Roue des émotions",
+    "category": "Bien-être",
+    "bytes": 80960,
+    "bounds": [
+      0.9598079919815063,
+      1.4799999883770942,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "journal",
+    "name": "Journal personnel",
+    "category": "Bien-être",
+    "bytes": 237888,
+    "bounds": [
+      0.550000011920929,
+      0.10749999996274709,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "cocoon",
+    "name": "Fauteuil enveloppant",
+    "category": "Bien-être",
+    "bytes": 76284,
+    "bounds": [
+      1,
+      1.2650000035762787,
+      0.9200000119209291
+    ]
+  },
+  {
+    "id": "door",
+    "name": "Porte à mécanisme",
+    "category": "Jeux",
+    "bytes": 148936,
+    "bounds": [
+      1.399999976158142,
+      2.300000024139881,
+      0.23499999955296516
+    ]
+  },
+  {
+    "id": "lever",
+    "name": "Levier mécanique",
+    "category": "Jeux",
+    "bytes": 76576,
+    "bounds": [
+      0.5250000029802322,
+      0.7250000020861626,
+      0.5
+    ]
+  },
+  {
+    "id": "pressure-pad",
+    "name": "Dalle de pression",
+    "category": "Jeux",
+    "bytes": 88464,
+    "bounds": [
+      1.2000000476837158,
+      0.13799999833107,
+      1.2000000476837158
+    ]
+  },
+  {
+    "id": "chest",
+    "name": "Coffre verrouillable",
+    "category": "Jeux",
+    "bytes": 955616,
+    "bounds": [
+      1.0640000002086163,
+      0.6050000050663948,
+      0.7189999993890523
+    ]
+  },
+  {
+    "id": "key-lock",
+    "name": "Clé et serrure",
+    "category": "Jeux",
+    "bytes": 124616,
+    "bounds": [
+      0.5900000020861627,
+      0.4499999979138375,
+      0.3800000020861626
+    ]
+  },
+  {
+    "id": "battery",
+    "name": "Batterie amovible",
+    "category": "Industrie",
+    "bytes": 105908,
+    "bounds": [
+      0.8199999928474426,
+      0.5999999916553498,
+      0.5199999809265137
+    ]
+  },
+  {
+    "id": "technical-bench",
+    "name": "Établi technique",
+    "category": "Industrie",
+    "bytes": 472268,
+    "bounds": [
+      2,
+      1.1600000071525574,
+      0.800000011920929
+    ]
+  },
+  {
+    "id": "diagnostic",
+    "name": "Console de diagnostic",
+    "category": "Industrie",
+    "bytes": 302932,
+    "bounds": [
+      1.2000000476837158,
+      1.44999999076128,
+      0.800000011920929
+    ]
+  },
+  {
+    "id": "valve",
+    "name": "Vanne industrielle",
+    "category": "Industrie",
+    "bytes": 94376,
+    "bounds": [
+      0.9199999982118607,
+      0.9049999947845936,
+      0.5699999928474426
+    ]
+  },
+  {
+    "id": "extinguisher",
+    "name": "Extincteur",
+    "category": "Industrie",
+    "bytes": 103336,
+    "bounds": [
+      0.34199999511241913,
+      0.7575000119954347,
+      0.26749999506399036
+    ]
+  },
+  {
+    "id": "globe",
+    "name": "Globe terrestre",
+    "category": "Découverte",
+    "bytes": 389664,
+    "bounds": [
+      1.020699044675589,
+      1.1403495214437247,
+      0.7123081359391596
+    ]
+  },
+  {
+    "id": "solar-system",
+    "name": "Système solaire",
+    "category": "Découverte",
+    "bytes": 428720,
+    "bounds": [
+      2.200000047683716,
+      0.6500000020861626,
+      2.118000030517578
+    ]
+  },
+  {
+    "id": "microscope",
+    "name": "Microscope",
+    "category": "Découverte",
+    "bytes": 494072,
+    "bounds": [
+      0.39199999783188105,
+      0.7689742541695004,
+      0.46000000834465027
+    ]
+  },
+  {
+    "id": "molecule",
+    "name": "Modèle moléculaire",
+    "category": "Découverte",
+    "bytes": 128560,
+    "bounds": [
+      0.9199999988079071,
+      0.8199999988079072,
+      0.5199999988079071
+    ]
+  },
+  {
+    "id": "book",
+    "name": "Livre interactif",
+    "category": "Découverte",
+    "bytes": 237884,
+    "bounds": [
+      0.550000011920929,
+      0.10749999996274709,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "sofa",
+    "name": "Canapé modulaire",
+    "category": "Habitat",
+    "bytes": 358756,
+    "bounds": [
+      2.4000000953674316,
+      0.9000000035762787,
+      0.949999988079071
+    ]
+  },
+  {
+    "id": "coffee-table",
+    "name": "Table basse",
+    "category": "Habitat",
+    "bytes": 180976,
+    "bounds": [
+      1.2000000476837158,
+      0.42000000417232514,
+      0.699999988079071
+    ]
+  },
+  {
+    "id": "floor-lamp",
+    "name": "Lampadaire articulé",
+    "category": "Habitat",
+    "bytes": 33052,
+    "bounds": [
+      0.8300000041723251,
+      1.7649999997764825,
+      0.5
+    ]
+  },
+  {
+    "id": "partition",
+    "name": "Cloison acoustique",
+    "category": "Habitat",
+    "bytes": 534264,
+    "bounds": [
+      1.5,
+      1.7700000231713058,
+      0.44999998807907104
+    ]
+  },
+  {
+    "id": "coffee-machine",
+    "name": "Machine à café",
+    "category": "Habitat",
+    "bytes": 883872,
+    "bounds": [
+      0.6449999996647239,
+      0.5775000009462238,
+      0.5779999968409538
+    ]
+  },
+  {
+    "id": "tree",
+    "name": "Arbre",
+    "category": "Nature",
+    "bytes": 252932,
+    "bounds": [
+      2.5900470585824666,
+      3.3199999809265135,
+      2.5751845028166116
+    ]
+  },
+  {
+    "id": "rock",
+    "name": "Rocher",
+    "category": "Nature",
+    "bytes": 9204,
+    "bounds": [
+      1.6740924005018971,
+      1.235067505052555,
+      1.605932174370325
+    ]
+  },
+  {
+    "id": "planter",
+    "name": "Bac de végétation",
+    "category": "Nature",
+    "bytes": 649716,
+    "bounds": [
+      1.3169375684766165,
+      1.033999998420477,
+      0.550000011920929
+    ]
+  },
+  {
+    "id": "bench",
+    "name": "Banc extérieur",
+    "category": "Nature",
+    "bytes": 374684,
+    "bounds": [
+      1.7999999523162842,
+      0.9499999997764825,
+      0.5100000000745057
+    ]
+  },
+  {
+    "id": "bridge",
+    "name": "Passerelle en bois",
+    "category": "Nature",
+    "bytes": 770132,
+    "bounds": [
+      2.4000000953674316,
+      1.0350000001490116,
+      1.4100000035762787
+    ]
+  },
+  {
+    "id": "bar-chart",
+    "name": "Graphique 3D",
+    "category": "Données",
+    "bytes": 178556,
+    "bounds": [
+      1.600000023841858,
+      1.0855555321441757,
+      0.699999988079071
+    ]
+  },
+  {
+    "id": "terrain",
+    "name": "Carte topographique",
+    "category": "Données",
+    "bytes": 78756,
+    "bounds": [
+      1.7999999523162842,
+      0.5874999995529652,
+      1.5
+    ]
+  },
+  {
+    "id": "network",
+    "name": "Nœuds de réseau",
+    "category": "Données",
+    "bytes": 144584,
+    "bounds": [
+      1.4000000029802322,
+      1.3000000029802323,
+      0.7000000029802322
+    ]
+  },
+  {
+    "id": "timeline",
+    "name": "Ligne du temps",
+    "category": "Données",
+    "bytes": 321644,
+    "bounds": [
+      2,
+      0.7699999994039535,
+      0.4000000059604645
+    ]
+  },
+  {
+    "id": "control-panel",
+    "name": "Panneau de commande",
+    "category": "Données",
+    "bytes": 232912,
+    "bounds": [
+      1,
+      1.135000002682209,
+      0.6000000238418579
+    ]
+  },
+  {
+    "id": "wp-casserole",
+    "name": "Casserole",
+    "category": "Cuisine · ustensiles",
+    "bytes": 60904,
+    "bounds": [
+      0.41999999999999993,
+      0.22000000000000003,
+      0.26
+    ]
+  },
+  {
+    "id": "wp-marmite",
+    "name": "Marmite",
+    "category": "Cuisine · ustensiles",
+    "bytes": 77884,
+    "bounds": [
+      0.48000000000000004,
+      0.38,
+      0.38
+    ]
+  },
+  {
+    "id": "wp-poele",
+    "name": "Poêle",
+    "category": "Cuisine · ustensiles",
+    "bytes": 90096,
+    "bounds": [
+      0.55,
+      0.08,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-wok",
+    "name": "Wok",
+    "category": "Cuisine · ustensiles",
+    "bytes": 36960,
+    "bounds": [
+      0.55,
+      0.18,
+      0.34
+    ]
+  },
+  {
+    "id": "wp-cocotte",
+    "name": "Cocotte",
+    "category": "Cuisine · ustensiles",
+    "bytes": 85868,
+    "bounds": [
+      0.42,
+      0.3,
+      0.32
+    ]
+  },
+  {
+    "id": "wp-passoire",
+    "name": "Passoire",
+    "category": "Cuisine · ustensiles",
+    "bytes": 423672,
+    "bounds": [
+      0.32,
+      0.16,
+      0.29999999999999993
+    ]
+  },
+  {
+    "id": "wp-saladier",
+    "name": "Saladier",
+    "category": "Cuisine · ustensiles",
+    "bytes": 11340,
+    "bounds": [
+      0.3,
+      0.16,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-planche-a-decouper",
+    "name": "Planche à découper",
+    "category": "Cuisine · ustensiles",
+    "bytes": 79304,
+    "bounds": [
+      0.4,
+      0.025,
+      0.28
+    ]
+  },
+  {
+    "id": "wp-rouleau-a-patisserie",
+    "name": "Rouleau à pâtisserie",
+    "category": "Cuisine · ustensiles",
+    "bytes": 22128,
+    "bounds": [
+      0.41999999999999993,
+      0.05500000000000001,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-fouet-de-cuisine",
+    "name": "Fouet de cuisine",
+    "category": "Cuisine · ustensiles",
+    "bytes": 74496,
+    "bounds": [
+      0.07,
+      0.3,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-spatule",
+    "name": "Spatule",
+    "category": "Cuisine · ustensiles",
+    "bytes": 19088,
+    "bounds": [
+      0.08,
+      0.31999999999999995,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-louche",
+    "name": "Louche",
+    "category": "Cuisine · ustensiles",
+    "bytes": 18588,
+    "bounds": [
+      0.1,
+      0.32000000000000006,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-ecumoire",
+    "name": "Écumoire",
+    "category": "Cuisine · ustensiles",
+    "bytes": 64076,
+    "bounds": [
+      0.11,
+      0.31999999999999995,
+      0.03
+    ]
+  },
+  {
+    "id": "wp-couteau-de-chef",
+    "name": "Couteau de chef",
+    "category": "Cuisine · ustensiles",
+    "bytes": 52152,
+    "bounds": [
+      0.045,
+      0.32,
+      0.019999999999999997
+    ]
+  },
+  {
+    "id": "wp-couteau-a-pain",
+    "name": "Couteau à pain",
+    "category": "Cuisine · ustensiles",
+    "bytes": 164160,
+    "bounds": [
+      0.04,
+      0.36,
+      0.019999999999999997
+    ]
+  },
+  {
+    "id": "wp-eplucheur",
+    "name": "Éplucheur",
+    "category": "Cuisine · ustensiles",
+    "bytes": 33456,
+    "bounds": [
+      0.07,
+      0.18000000000000002,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-rape",
+    "name": "Râpe",
+    "category": "Cuisine · ustensiles",
+    "bytes": 187120,
+    "bounds": [
+      0.12,
+      0.24,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-presse-agrumes",
+    "name": "Presse-agrumes",
+    "category": "Cuisine · ustensiles",
+    "bytes": 91840,
+    "bounds": [
+      0.18,
+      0.12,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-mortier-et-pilon",
+    "name": "Mortier et pilon",
+    "category": "Cuisine · ustensiles",
+    "bytes": 37760,
+    "bounds": [
+      0.2,
+      0.18,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-balance-de-cuisine",
+    "name": "Balance de cuisine",
+    "category": "Cuisine · ustensiles",
+    "bytes": 86924,
+    "bounds": [
+      0.24,
+      0.08000000000000002,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-refrigerateur",
+    "name": "Réfrigérateur",
+    "category": "Cuisine · équipements",
+    "bytes": 56896,
+    "bounds": [
+      0.7,
+      1.8,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-four-encastrable",
+    "name": "Four encastrable",
+    "category": "Cuisine · équipements",
+    "bytes": 122400,
+    "bounds": [
+      0.6,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-micro-ondes",
+    "name": "Micro-ondes",
+    "category": "Cuisine · équipements",
+    "bytes": 84376,
+    "bounds": [
+      0.49999999999999994,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-lave-vaisselle",
+    "name": "Lave-vaisselle",
+    "category": "Cuisine · équipements",
+    "bytes": 110984,
+    "bounds": [
+      0.6,
+      0.85,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-grille-pain",
+    "name": "Grille-pain",
+    "category": "Cuisine · équipements",
+    "bytes": 45548,
+    "bounds": [
+      0.28,
+      0.19999999999999998,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-bouilloire",
+    "name": "Bouilloire",
+    "category": "Cuisine · équipements",
+    "bytes": 64280,
+    "bounds": [
+      0.23000000000000004,
+      0.3,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-mixeur-sur-socle",
+    "name": "Mixeur sur socle",
+    "category": "Cuisine · équipements",
+    "bytes": 123268,
+    "bounds": [
+      0.2,
+      0.41999999999999993,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-robot-patissier",
+    "name": "Robot pâtissier",
+    "category": "Cuisine · équipements",
+    "bytes": 68976,
+    "bounds": [
+      0.4,
+      0.4,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-plaque-a-induction",
+    "name": "Plaque à induction",
+    "category": "Cuisine · équipements",
+    "bytes": 136152,
+    "bounds": [
+      0.6,
+      0.05,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-plaque-au-gaz",
+    "name": "Plaque au gaz",
+    "category": "Cuisine · équipements",
+    "bytes": 225508,
+    "bounds": [
+      0.6,
+      0.10000000000000002,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-hotte-aspirante",
+    "name": "Hotte aspirante",
+    "category": "Cuisine · équipements",
+    "bytes": 80960,
+    "bounds": [
+      0.9,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-evier-et-robinet",
+    "name": "Évier et robinet",
+    "category": "Cuisine · équipements",
+    "bytes": 46208,
+    "bounds": [
+      0.8,
+      0.4,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-ilot-de-cuisine",
+    "name": "Îlot de cuisine",
+    "category": "Cuisine · équipements",
+    "bytes": 141800,
+    "bounds": [
+      1.8,
+      0.8999999999999999,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-meuble-a-tiroirs",
+    "name": "Meuble à tiroirs",
+    "category": "Cuisine · équipements",
+    "bytes": 113024,
+    "bounds": [
+      0.8,
+      0.8999999999999999,
+      0.6000000000000001
+    ]
+  },
+  {
+    "id": "wp-placard-mural",
+    "name": "Placard mural",
+    "category": "Cuisine · équipements",
+    "bytes": 68280,
+    "bounds": [
+      0.8,
+      0.7,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-egouttoir-a-vaisselle",
+    "name": "Égouttoir à vaisselle",
+    "category": "Cuisine · équipements",
+    "bytes": 162692,
+    "bounds": [
+      0.4,
+      0.20000000000000004,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-poubelle-a-pedale",
+    "name": "Poubelle à pédale",
+    "category": "Cuisine · équipements",
+    "bytes": 48728,
+    "bounds": [
+      0.35,
+      0.5999999999999999,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-chariot-de-service",
+    "name": "Chariot de service",
+    "category": "Cuisine · équipements",
+    "bytes": 87920,
+    "bounds": [
+      0.8,
+      0.85,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-porte-epices",
+    "name": "Porte-épices",
+    "category": "Cuisine · équipements",
+    "bytes": 112580,
+    "bounds": [
+      0.45,
+      0.3499999999999999,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-crepiere",
+    "name": "Crêpière",
+    "category": "Cuisine · équipements",
+    "bytes": 86176,
+    "bounds": [
+      0.4,
+      0.12000000000000001,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-pomme",
+    "name": "Pomme",
+    "category": "Alimentation · ingrédients",
+    "bytes": 46080,
+    "bounds": [
+      0.09,
+      0.09,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-poire",
+    "name": "Poire",
+    "category": "Alimentation · ingrédients",
+    "bytes": 64740,
+    "bounds": [
+      0.08,
+      0.13,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-orange",
+    "name": "Orange",
+    "category": "Alimentation · ingrédients",
+    "bytes": 27020,
+    "bounds": [
+      0.09,
+      0.09,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-citron",
+    "name": "Citron",
+    "category": "Alimentation · ingrédients",
+    "bytes": 27016,
+    "bounds": [
+      0.09999999999999999,
+      0.07,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-banane",
+    "name": "Banane",
+    "category": "Alimentation · ingrédients",
+    "bytes": 17052,
+    "bounds": [
+      0.2,
+      0.1,
+      0.05
+    ]
+  },
+  {
+    "id": "wp-grappe-de-raisin",
+    "name": "Grappe de raisin",
+    "category": "Alimentation · ingrédients",
+    "bytes": 292524,
+    "bounds": [
+      0.12000000000000001,
+      0.20000000000000004,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-fraise",
+    "name": "Fraise",
+    "category": "Alimentation · ingrédients",
+    "bytes": 273724,
+    "bounds": [
+      0.05499999999999999,
+      0.07500000000000001,
+      0.05499999999999999
+    ]
+  },
+  {
+    "id": "wp-tomate",
+    "name": "Tomate",
+    "category": "Alimentation · ingrédients",
+    "bytes": 46080,
+    "bounds": [
+      0.085,
+      0.07,
+      0.085
+    ]
+  },
+  {
+    "id": "wp-carotte",
+    "name": "Carotte",
+    "category": "Alimentation · ingrédients",
+    "bytes": 102532,
+    "bounds": [
+      0.060000000000000005,
+      0.25000000000000006,
+      0.06
+    ]
+  },
+  {
+    "id": "wp-poireau",
+    "name": "Poireau",
+    "category": "Alimentation · ingrédients",
+    "bytes": 121540,
+    "bounds": [
+      0.08000000000000002,
+      0.4,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-aubergine",
+    "name": "Aubergine",
+    "category": "Alimentation · ingrédients",
+    "bytes": 46072,
+    "bounds": [
+      0.1,
+      0.23000000000000004,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-poivron",
+    "name": "Poivron",
+    "category": "Alimentation · ingrédients",
+    "bytes": 102924,
+    "bounds": [
+      0.1,
+      0.13000000000000003,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-champignon",
+    "name": "Champignon",
+    "category": "Alimentation · ingrédients",
+    "bytes": 26964,
+    "bounds": [
+      0.09,
+      0.1,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-brocoli",
+    "name": "Brocoli",
+    "category": "Alimentation · ingrédients",
+    "bytes": 178556,
+    "bounds": [
+      0.18,
+      0.19999999999999998,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-potiron",
+    "name": "Potiron",
+    "category": "Alimentation · ingrédients",
+    "bytes": 178748,
+    "bounds": [
+      0.32000000000000006,
+      0.25,
+      0.32000000000000006
+    ]
+  },
+  {
+    "id": "wp-oeuf-et-coquetier",
+    "name": "Œuf et coquetier",
+    "category": "Alimentation · ingrédients",
+    "bytes": 44664,
+    "bounds": [
+      0.065,
+      0.11999999999999997,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-brique-de-lait",
+    "name": "Brique de lait",
+    "category": "Alimentation · ingrédients",
+    "bytes": 32196,
+    "bounds": [
+      0.08000000000000002,
+      0.24,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-paquet-de-farine",
+    "name": "Paquet de farine",
+    "category": "Alimentation · ingrédients",
+    "bytes": 23236,
+    "bounds": [
+      0.12,
+      0.2,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-bouteille-d-huile",
+    "name": "Bouteille d’huile",
+    "category": "Alimentation · ingrédients",
+    "bytes": 34540,
+    "bounds": [
+      0.08,
+      0.29999999999999993,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-pot-de-miel",
+    "name": "Pot de miel",
+    "category": "Alimentation · ingrédients",
+    "bytes": 30020,
+    "bounds": [
+      0.1,
+      0.14,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-baguette",
+    "name": "Baguette",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 283888,
+    "bounds": [
+      0.6500000000000001,
+      0.065,
+      0.075
+    ]
+  },
+  {
+    "id": "wp-pain-de-campagne",
+    "name": "Pain de campagne",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 83856,
+    "bounds": [
+      0.30000000000000004,
+      0.14999999999999997,
+      0.28
+    ]
+  },
+  {
+    "id": "wp-croissant",
+    "name": "Croissant",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 209844,
+    "bounds": [
+      0.17999999999999997,
+      0.065,
+      0.12000000000000001
+    ]
+  },
+  {
+    "id": "wp-pain-au-chocolat",
+    "name": "Pain au chocolat",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 45584,
+    "bounds": [
+      0.13000000000000003,
+      0.06,
+      0.09000000000000001
+    ]
+  },
+  {
+    "id": "wp-brioche-tressee",
+    "name": "Brioche tressée",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 133204,
+    "bounds": [
+      0.3,
+      0.09999999999999999,
+      0.14
+    ]
+  },
+  {
+    "id": "wp-eclair-au-chocolat",
+    "name": "Éclair au chocolat",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 38728,
+    "bounds": [
+      0.15,
+      0.060000000000000005,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-macaron",
+    "name": "Macaron",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 45928,
+    "bounds": [
+      0.05499999999999999,
+      0.030000000000000002,
+      0.05499999999999999
+    ]
+  },
+  {
+    "id": "wp-tarte-aux-pommes",
+    "name": "Tarte aux pommes",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 273368,
+    "bounds": [
+      0.28,
+      0.04,
+      0.28
+    ]
+  },
+  {
+    "id": "wp-millefeuille",
+    "name": "Millefeuille",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 56632,
+    "bounds": [
+      0.12000000000000001,
+      0.07,
+      0.075
+    ]
+  },
+  {
+    "id": "wp-religieuse",
+    "name": "Religieuse",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 52920,
+    "bounds": [
+      0.08,
+      0.14,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-paris-brest",
+    "name": "Paris-Brest",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 34188,
+    "bounds": [
+      0.18,
+      0.08000000000000002,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-madeleine",
+    "name": "Madeleine",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 55976,
+    "bounds": [
+      0.07999999999999999,
+      0.03,
+      0.05499999999999999
+    ]
+  },
+  {
+    "id": "wp-cannele",
+    "name": "Cannelé",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 95848,
+    "bounds": [
+      0.055,
+      0.06,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-kouign-amann",
+    "name": "Kouign-amann",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 165216,
+    "bounds": [
+      0.11000000000000001,
+      0.05,
+      0.11
+    ]
+  },
+  {
+    "id": "wp-galette-des-rois",
+    "name": "Galette des rois",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 165216,
+    "bounds": [
+      0.30000000000000004,
+      0.045,
+      0.29999999999999993
+    ]
+  },
+  {
+    "id": "wp-crepe-garnie",
+    "name": "Crêpe garnie",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 34316,
+    "bounds": [
+      0.26,
+      0.025,
+      0.26
+    ]
+  },
+  {
+    "id": "wp-meule-de-fromage",
+    "name": "Meule de fromage",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 42888,
+    "bounds": [
+      0.28,
+      0.1,
+      0.28
+    ]
+  },
+  {
+    "id": "wp-part-de-fromage",
+    "name": "Part de fromage",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 42304,
+    "bounds": [
+      0.14,
+      0.07,
+      0.16000000000000003
+    ]
+  },
+  {
+    "id": "wp-plateau-de-fromages",
+    "name": "Plateau de fromages",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 149668,
+    "bounds": [
+      0.45,
+      0.13,
+      0.32
+    ]
+  },
+  {
+    "id": "wp-soupiere",
+    "name": "Soupière",
+    "category": "France · boulangerie et gastronomie",
+    "bytes": 60904,
+    "bounds": [
+      0.35,
+      0.24999999999999997,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-assiette-plate",
+    "name": "Assiette plate",
+    "category": "Art de la table",
+    "bytes": 47964,
+    "bounds": [
+      0.27,
+      0.025,
+      0.27
+    ]
+  },
+  {
+    "id": "wp-assiette-creuse",
+    "name": "Assiette creuse",
+    "category": "Art de la table",
+    "bytes": 47964,
+    "bounds": [
+      0.23,
+      0.05,
+      0.23
+    ]
+  },
+  {
+    "id": "wp-assiette-a-dessert",
+    "name": "Assiette à dessert",
+    "category": "Art de la table",
+    "bytes": 47876,
+    "bounds": [
+      0.19,
+      0.02,
+      0.19
+    ]
+  },
+  {
+    "id": "wp-bol-a-dejeuner",
+    "name": "Bol à déjeuner",
+    "category": "Art de la table",
+    "bytes": 11316,
+    "bounds": [
+      0.16,
+      0.09,
+      0.16
+    ]
+  },
+  {
+    "id": "wp-tasse-a-the",
+    "name": "Tasse à thé",
+    "category": "Art de la table",
+    "bytes": 28008,
+    "bounds": [
+      0.13,
+      0.08,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-mug",
+    "name": "Mug",
+    "category": "Art de la table",
+    "bytes": 27996,
+    "bounds": [
+      0.13,
+      0.12,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-verre-a-eau",
+    "name": "Verre à eau",
+    "category": "Art de la table",
+    "bytes": 78784,
+    "bounds": [
+      0.075,
+      0.12,
+      0.075
+    ]
+  },
+  {
+    "id": "wp-verre-a-pied",
+    "name": "Verre à pied",
+    "category": "Art de la table",
+    "bytes": 46220,
+    "bounds": [
+      0.08,
+      0.2,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-flute",
+    "name": "Flûte",
+    "category": "Art de la table",
+    "bytes": 46144,
+    "bounds": [
+      0.065,
+      0.23,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-carafe",
+    "name": "Carafe",
+    "category": "Art de la table",
+    "bytes": 15744,
+    "bounds": [
+      0.12,
+      0.27,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-theiere",
+    "name": "Théière",
+    "category": "Art de la table",
+    "bytes": 64372,
+    "bounds": [
+      0.24,
+      0.18,
+      0.17
+    ]
+  },
+  {
+    "id": "wp-fourchette",
+    "name": "Fourchette",
+    "category": "Art de la table",
+    "bytes": 58932,
+    "bounds": [
+      0.025,
+      0.20000000000000004,
+      0.009999999999999998
+    ]
+  },
+  {
+    "id": "wp-cuillere-a-soupe",
+    "name": "Cuillère à soupe",
+    "category": "Art de la table",
+    "bytes": 21288,
+    "bounds": [
+      0.045,
+      0.19,
+      0.020000000000000004
+    ]
+  },
+  {
+    "id": "wp-couteau-de-table",
+    "name": "Couteau de table",
+    "category": "Art de la table",
+    "bytes": 52152,
+    "bounds": [
+      0.025,
+      0.22,
+      0.015
+    ]
+  },
+  {
+    "id": "wp-petite-cuillere",
+    "name": "Petite cuillère",
+    "category": "Art de la table",
+    "bytes": 37840,
+    "bounds": [
+      0.030000000000000006,
+      0.13,
+      0.015
+    ]
+  },
+  {
+    "id": "wp-serviette-pliee",
+    "name": "Serviette pliée",
+    "category": "Art de la table",
+    "bytes": 24120,
+    "bounds": [
+      0.16,
+      0.12,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-saliere",
+    "name": "Salière",
+    "category": "Art de la table",
+    "bytes": 113572,
+    "bounds": [
+      0.05,
+      0.09,
+      0.05
+    ]
+  },
+  {
+    "id": "wp-poivriere",
+    "name": "Poivrière",
+    "category": "Art de la table",
+    "bytes": 37296,
+    "bounds": [
+      0.055,
+      0.16,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-corbeille-a-pain",
+    "name": "Corbeille à pain",
+    "category": "Art de la table",
+    "bytes": 392688,
+    "bounds": [
+      0.3,
+      0.12000000000000002,
+      0.22
+    ]
+  },
+  {
+    "id": "wp-bougeoir-de-table",
+    "name": "Bougeoir de table",
+    "category": "Art de la table",
+    "bytes": 48336,
+    "bounds": [
+      0.1,
+      0.3,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-couronne-de-l-epiphanie",
+    "name": "Couronne de l’Épiphanie",
+    "category": "France · fêtes et traditions",
+    "bytes": 34172,
+    "bounds": [
+      0.2,
+      0.09000000000000001,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-feve-de-collection",
+    "name": "Fève de collection",
+    "category": "France · fêtes et traditions",
+    "bytes": 48876,
+    "bounds": [
+      0.035,
+      0.045000000000000005,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-cloche-de-paques",
+    "name": "Cloche de Pâques",
+    "category": "France · fêtes et traditions",
+    "bytes": 49964,
+    "bounds": [
+      0.15,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-oeuf-decore",
+    "name": "Œuf décoré",
+    "category": "France · fêtes et traditions",
+    "bytes": 69764,
+    "bounds": [
+      0.09,
+      0.13,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-brin-de-muguet",
+    "name": "Brin de muguet",
+    "category": "France · fêtes et traditions",
+    "bytes": 183876,
+    "bounds": [
+      0.15999999999999998,
+      0.3,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-lampion-de-fete",
+    "name": "Lampion de fête",
+    "category": "France · fêtes et traditions",
+    "bytes": 136552,
+    "bounds": [
+      0.25,
+      0.35,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-drapeau-tricolore-sur-pied",
+    "name": "Drapeau tricolore sur pied",
+    "category": "France · fêtes et traditions",
+    "bytes": 49360,
+    "bounds": [
+      0.8,
+      1.6,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-guirlande-de-fanions",
+    "name": "Guirlande de fanions",
+    "category": "France · fêtes et traditions",
+    "bytes": 23364,
+    "bounds": [
+      2.0000000000000004,
+      0.29999999999999993,
+      0.05000000000000001
+    ]
+  },
+  {
+    "id": "wp-boule-de-petanque",
+    "name": "Boule de pétanque",
+    "category": "France · fêtes et traditions",
+    "bytes": 69648,
+    "bounds": [
+      0.074,
+      0.074,
+      0.074
+    ]
+  },
+  {
+    "id": "wp-cochonnet",
+    "name": "Cochonnet",
+    "category": "France · fêtes et traditions",
+    "bytes": 19324,
+    "bounds": [
+      0.03,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "id": "wp-accordeon",
+    "name": "Accordéon",
+    "category": "France · fêtes et traditions",
+    "bytes": 331180,
+    "bounds": [
+      0.5,
+      0.4,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-beret",
+    "name": "Béret",
+    "category": "France · fêtes et traditions",
+    "bytes": 34208,
+    "bounds": [
+      0.28,
+      0.07499999999999998,
+      0.28
+    ]
+  },
+  {
+    "id": "wp-panier-de-pique-nique",
+    "name": "Panier de pique-nique",
+    "category": "France · fêtes et traditions",
+    "bytes": 409316,
+    "bounds": [
+      0.45,
+      0.35,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-santon-de-berger",
+    "name": "Santon de berger",
+    "category": "France · fêtes et traditions",
+    "bytes": 55900,
+    "bounds": [
+      0.09999999999999999,
+      0.23000000000000004,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-buche-de-noel",
+    "name": "Bûche de Noël",
+    "category": "France · fêtes et traditions",
+    "bytes": 89508,
+    "bounds": [
+      0.3,
+      0.12000000000000001,
+      0.13
+    ]
+  },
+  {
+    "id": "wp-sapin-decore",
+    "name": "Sapin décoré",
+    "category": "France · fêtes et traditions",
+    "bytes": 334124,
+    "bounds": [
+      1.2,
+      1.9999999999999998,
+      1.2
+    ]
+  },
+  {
+    "id": "wp-boule-de-noel",
+    "name": "Boule de Noël",
+    "category": "France · fêtes et traditions",
+    "bytes": 43544,
+    "bounds": [
+      0.09,
+      0.10999999999999999,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-couronne-de-porte",
+    "name": "Couronne de porte",
+    "category": "France · fêtes et traditions",
+    "bytes": 256260,
+    "bounds": [
+      0.4,
+      0.4,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-masque-de-carnaval",
+    "name": "Masque de carnaval",
+    "category": "France · fêtes et traditions",
+    "bytes": 83296,
+    "bounds": [
+      0.21999999999999997,
+      0.11999999999999998,
+      0.05
+    ]
+  },
+  {
+    "id": "wp-chapeau-de-fete",
+    "name": "Chapeau de fête",
+    "category": "France · fêtes et traditions",
+    "bytes": 41668,
+    "bounds": [
+      0.18,
+      0.30000000000000004,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-kiosque-a-journaux",
+    "name": "Kiosque à journaux",
+    "category": "Ville · commerces et services",
+    "bytes": 359316,
+    "bounds": [
+      2.2,
+      2.5000000000000004,
+      1.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-etal-de-marche",
+    "name": "Étal de marché",
+    "category": "Ville · commerces et services",
+    "bytes": 942820,
+    "bounds": [
+      2,
+      2.2,
+      1.1999999999999997
+    ]
+  },
+  {
+    "id": "wp-devanture-de-boulangerie",
+    "name": "Devanture de boulangerie",
+    "category": "Ville · commerces et services",
+    "bytes": 342964,
+    "bounds": [
+      2.5,
+      2.8,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-devanture-de-librairie",
+    "name": "Devanture de librairie",
+    "category": "Ville · commerces et services",
+    "bytes": 191768,
+    "bounds": [
+      2.5,
+      2.8,
+      0.40000000000000013
+    ]
+  },
+  {
+    "id": "wp-abribus",
+    "name": "Abribus",
+    "category": "Ville · commerces et services",
+    "bytes": 172500,
+    "bounds": [
+      2.5,
+      2.3999999999999995,
+      1.1999999999999997
+    ]
+  },
+  {
+    "id": "wp-banc-de-quai",
+    "name": "Banc de quai",
+    "category": "Ville · commerces et services",
+    "bytes": 96816,
+    "bounds": [
+      1.8,
+      0.9000000000000001,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-boite-aux-lettres-de-rue",
+    "name": "Boîte aux lettres de rue",
+    "category": "Ville · commerces et services",
+    "bytes": 312200,
+    "bounds": [
+      0.45,
+      1.3,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-potelet-urbain",
+    "name": "Potelet urbain",
+    "category": "Ville · commerces et services",
+    "bytes": 34064,
+    "bounds": [
+      0.14,
+      0.8999999999999999,
+      0.14
+    ]
+  },
+  {
+    "id": "wp-reverbere-de-rue",
+    "name": "Réverbère de rue",
+    "category": "Ville · commerces et services",
+    "bytes": 158052,
+    "bounds": [
+      0.6500000000000001,
+      3,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-feu-tricolore",
+    "name": "Feu tricolore",
+    "category": "Ville · commerces et services",
+    "bytes": 41320,
+    "bounds": [
+      0.4,
+      2.6000000000000005,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-panneau-de-passage-pieton",
+    "name": "Panneau de passage piéton",
+    "category": "Ville · commerces et services",
+    "bytes": 60120,
+    "bounds": [
+      0.6,
+      2,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-panneau-directionnel",
+    "name": "Panneau directionnel",
+    "category": "Ville · commerces et services",
+    "bytes": 22444,
+    "bounds": [
+      1.2,
+      2,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-horodateur",
+    "name": "Horodateur",
+    "category": "Ville · commerces et services",
+    "bytes": 148476,
+    "bounds": [
+      0.4,
+      1.5,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-distributeur-de-billets",
+    "name": "Distributeur de billets",
+    "category": "Ville · commerces et services",
+    "bytes": 159804,
+    "bounds": [
+      0.7,
+      1.5,
+      0.55
+    ]
+  },
+  {
+    "id": "wp-borne-de-tickets",
+    "name": "Borne de tickets",
+    "category": "Ville · commerces et services",
+    "bytes": 159816,
+    "bounds": [
+      0.5,
+      1.4,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-cabine-telephonique",
+    "name": "Cabine téléphonique",
+    "category": "Ville · commerces et services",
+    "bytes": 180264,
+    "bounds": [
+      1,
+      2.3,
+      1
+    ]
+  },
+  {
+    "id": "wp-fontaine-a-boire",
+    "name": "Fontaine à boire",
+    "category": "Ville · commerces et services",
+    "bytes": 32748,
+    "bounds": [
+      0.5,
+      1,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-support-pour-velos",
+    "name": "Support pour vélos",
+    "category": "Ville · commerces et services",
+    "bytes": 74440,
+    "bounds": [
+      1.5,
+      0.7,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-barriere-de-terrasse",
+    "name": "Barrière de terrasse",
+    "category": "Ville · commerces et services",
+    "bytes": 168716,
+    "bounds": [
+      1.5,
+      1,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-table-de-bistrot",
+    "name": "Table de bistrot",
+    "category": "Ville · commerces et services",
+    "bytes": 184676,
+    "bounds": [
+      0.7,
+      0.75,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-sac-a-dos",
+    "name": "Sac à dos",
+    "category": "Français · objets du quotidien",
+    "bytes": 73368,
+    "bounds": [
+      0.32,
+      0.45,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-cartable",
+    "name": "Cartable",
+    "category": "Français · objets du quotidien",
+    "bytes": 50996,
+    "bounds": [
+      0.4,
+      0.29999999999999993,
+      0.16000000000000003
+    ]
+  },
+  {
+    "id": "wp-valise-a-roulettes",
+    "name": "Valise à roulettes",
+    "category": "Français · objets du quotidien",
+    "bytes": 103980,
+    "bounds": [
+      0.42,
+      0.65,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-sac-a-main",
+    "name": "Sac à main",
+    "category": "Français · objets du quotidien",
+    "bytes": 28656,
+    "bounds": [
+      0.3,
+      0.25,
+      0.13
+    ]
+  },
+  {
+    "id": "wp-portefeuille",
+    "name": "Portefeuille",
+    "category": "Français · objets du quotidien",
+    "bytes": 42288,
+    "bounds": [
+      0.11999999999999998,
+      0.09,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-trousseau-de-cles",
+    "name": "Trousseau de clés",
+    "category": "Français · objets du quotidien",
+    "bytes": 168084,
+    "bounds": [
+      0.1,
+      0.14,
+      0.02
+    ]
+  },
+  {
+    "id": "wp-parapluie-ouvert",
+    "name": "Parapluie ouvert",
+    "category": "Français · objets du quotidien",
+    "bytes": 93708,
+    "bounds": [
+      0.8999999999999999,
+      1.0000000000000002,
+      0.8999999999999999
+    ]
+  },
+  {
+    "id": "wp-lunettes",
+    "name": "Lunettes",
+    "category": "Français · objets du quotidien",
+    "bytes": 55652,
+    "bounds": [
+      0.14,
+      0.04999999999999999,
+      0.14000000000000004
+    ]
+  },
+  {
+    "id": "wp-montre-bracelet",
+    "name": "Montre-bracelet",
+    "category": "Français · objets du quotidien",
+    "bytes": 41252,
+    "bounds": [
+      0.045,
+      0.025,
+      0.22
+    ]
+  },
+  {
+    "id": "wp-reveil-a-cloches",
+    "name": "Réveil à cloches",
+    "category": "Français · objets du quotidien",
+    "bytes": 217280,
+    "bounds": [
+      0.15,
+      0.20000000000000004,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-telephone-portable",
+    "name": "Téléphone portable",
+    "category": "Français · objets du quotidien",
+    "bytes": 79628,
+    "bounds": [
+      0.075,
+      0.15,
+      0.008999999999999998
+    ]
+  },
+  {
+    "id": "wp-appareil-photo",
+    "name": "Appareil photo",
+    "category": "Français · objets du quotidien",
+    "bytes": 56980,
+    "bounds": [
+      0.14,
+      0.09,
+      0.09999999999999999
+    ]
+  },
+  {
+    "id": "wp-casque-audio",
+    "name": "Casque audio",
+    "category": "Français · objets du quotidien",
+    "bytes": 39824,
+    "bounds": [
+      0.18,
+      0.2,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-brosse-a-dents",
+    "name": "Brosse à dents",
+    "category": "Français · objets du quotidien",
+    "bytes": 77156,
+    "bounds": [
+      0.015000000000000001,
+      0.19,
+      0.019999999999999997
+    ]
+  },
+  {
+    "id": "wp-tube-de-dentifrice",
+    "name": "Tube de dentifrice",
+    "category": "Français · objets du quotidien",
+    "bytes": 37676,
+    "bounds": [
+      0.055,
+      0.17,
+      0.035
+    ]
+  },
+  {
+    "id": "wp-savon-et-porte-savon",
+    "name": "Savon et porte-savon",
+    "category": "Français · objets du quotidien",
+    "bytes": 31044,
+    "bounds": [
+      0.13,
+      0.039999999999999994,
+      0.08999999999999998
+    ]
+  },
+  {
+    "id": "wp-peigne",
+    "name": "Peigne",
+    "category": "Français · objets du quotidien",
+    "bytes": 212776,
+    "bounds": [
+      0.04000000000000001,
+      0.18,
+      0.007
+    ]
+  },
+  {
+    "id": "wp-seche-cheveux",
+    "name": "Sèche-cheveux",
+    "category": "Français · objets du quotidien",
+    "bytes": 26660,
+    "bounds": [
+      0.2,
+      0.22000000000000003,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-paire-de-chaussons",
+    "name": "Paire de chaussons",
+    "category": "Français · objets du quotidien",
+    "bytes": 76680,
+    "bounds": [
+      0.24000000000000005,
+      0.07999999999999999,
+      0.27999999999999997
+    ]
+  },
+  {
+    "id": "wp-porte-manteau",
+    "name": "Porte-manteau",
+    "category": "Français · objets du quotidien",
+    "bytes": 172636,
+    "bounds": [
+      0.55,
+      1.75,
+      0.55
+    ]
+  },
+  {
+    "id": "wp-bureau-d-eleve",
+    "name": "Bureau d’élève",
+    "category": "Enseignement · salle de classe",
+    "bytes": 96400,
+    "bounds": [
+      0.65,
+      0.75,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-table-de-groupe-hexagonale",
+    "name": "Table de groupe hexagonale",
+    "category": "Enseignement · salle de classe",
+    "bytes": 76520,
+    "bounds": [
+      1.4,
+      0.7499999999999999,
+      1.2
+    ]
+  },
+  {
+    "id": "wp-chaise-scolaire",
+    "name": "Chaise scolaire",
+    "category": "Enseignement · salle de classe",
+    "bytes": 291068,
+    "bounds": [
+      0.45,
+      0.8000000000000002,
+      0.44999999999999996
+    ]
+  },
+  {
+    "id": "wp-tabouret-de-laboratoire",
+    "name": "Tabouret de laboratoire",
+    "category": "Enseignement · salle de classe",
+    "bytes": 85404,
+    "bounds": [
+      0.4,
+      0.6499999999999999,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-casier-scolaire",
+    "name": "Casier scolaire",
+    "category": "Enseignement · salle de classe",
+    "bytes": 68280,
+    "bounds": [
+      0.4,
+      1.7999999999999998,
+      0.44999999999999996
+    ]
+  },
+  {
+    "id": "wp-bibliotheque-basse",
+    "name": "Bibliothèque basse",
+    "category": "Enseignement · salle de classe",
+    "bytes": 515392,
+    "bounds": [
+      1.2,
+      1.1,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-chevalet-de-presentation",
+    "name": "Chevalet de présentation",
+    "category": "Enseignement · salle de classe",
+    "bytes": 45124,
+    "bounds": [
+      0.8,
+      1.5999999999999996,
+      0.55
+    ]
+  },
+  {
+    "id": "wp-ardoise-individuelle",
+    "name": "Ardoise individuelle",
+    "category": "Enseignement · salle de classe",
+    "bytes": 79304,
+    "bounds": [
+      0.3,
+      0.22,
+      0.02
+    ]
+  },
+  {
+    "id": "wp-cahier-ouvert",
+    "name": "Cahier ouvert",
+    "category": "Enseignement · salle de classe",
+    "bytes": 202312,
+    "bounds": [
+      0.42,
+      0.012,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-classeur-a-anneaux",
+    "name": "Classeur à anneaux",
+    "category": "Enseignement · salle de classe",
+    "bytes": 95608,
+    "bounds": [
+      0.55,
+      0.08,
+      0.32
+    ]
+  },
+  {
+    "id": "wp-trousse-d-ecole",
+    "name": "Trousse d’école",
+    "category": "Enseignement · salle de classe",
+    "bytes": 19220,
+    "bounds": [
+      0.22,
+      0.07999999999999999,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-pot-a-crayons",
+    "name": "Pot à crayons",
+    "category": "Enseignement · salle de classe",
+    "bytes": 98996,
+    "bounds": [
+      0.1,
+      0.16,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-crayon-de-papier",
+    "name": "Crayon de papier",
+    "category": "Enseignement · salle de classe",
+    "bytes": 15796,
+    "bounds": [
+      0.008,
+      0.19,
+      0.008
+    ]
+  },
+  {
+    "id": "wp-stylo-plume",
+    "name": "Stylo-plume",
+    "category": "Enseignement · salle de classe",
+    "bytes": 21800,
+    "bounds": [
+      0.015,
+      0.14000000000000004,
+      0.015
+    ]
+  },
+  {
+    "id": "wp-gomme",
+    "name": "Gomme",
+    "category": "Enseignement · salle de classe",
+    "bytes": 23252,
+    "bounds": [
+      0.06,
+      0.02,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-taille-crayon",
+    "name": "Taille-crayon",
+    "category": "Enseignement · salle de classe",
+    "bytes": 49316,
+    "bounds": [
+      0.035,
+      0.020000000000000004,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-paire-de-ciseaux",
+    "name": "Paire de ciseaux",
+    "category": "Enseignement · salle de classe",
+    "bytes": 67492,
+    "bounds": [
+      0.07,
+      0.17000000000000004,
+      0.015
+    ]
+  },
+  {
+    "id": "wp-equerre-scolaire",
+    "name": "Équerre scolaire",
+    "category": "Enseignement · salle de classe",
+    "bytes": 22296,
+    "bounds": [
+      0.20000000000000004,
+      0.19999999999999998,
+      0.004
+    ]
+  },
+  {
+    "id": "wp-rapporteur",
+    "name": "Rapporteur",
+    "category": "Enseignement · salle de classe",
+    "bytes": 162168,
+    "bounds": [
+      0.2,
+      0.1,
+      0.005
+    ]
+  },
+  {
+    "id": "wp-boulier",
+    "name": "Boulier",
+    "category": "Enseignement · salle de classe",
+    "bytes": 839704,
+    "bounds": [
+      0.4,
+      0.4,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-cube-unite",
+    "name": "Cube unité",
+    "category": "Enseignement · mathématiques",
+    "bytes": 11912,
+    "bounds": [
+      0.2,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-pave-droit",
+    "name": "Pavé droit",
+    "category": "Enseignement · mathématiques",
+    "bytes": 11816,
+    "bounds": [
+      0.4,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-sphere-geometrique",
+    "name": "Sphère géométrique",
+    "category": "Enseignement · mathématiques",
+    "bytes": 19668,
+    "bounds": [
+      0.3,
+      0.29999999999999993,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-cone-geometrique",
+    "name": "Cône géométrique",
+    "category": "Enseignement · mathématiques",
+    "bytes": 5388,
+    "bounds": [
+      0.3,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-cylindre-geometrique",
+    "name": "Cylindre géométrique",
+    "category": "Enseignement · mathématiques",
+    "bytes": 7020,
+    "bounds": [
+      0.3,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-pyramide-a-base-carree",
+    "name": "Pyramide à base carrée",
+    "category": "Enseignement · mathématiques",
+    "bytes": 2464,
+    "bounds": [
+      0.3,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-tetraedre",
+    "name": "Tétraèdre",
+    "category": "Enseignement · mathématiques",
+    "bytes": 2056,
+    "bounds": [
+      0.3,
+      0.29999999999999993,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-octaedre",
+    "name": "Octaèdre",
+    "category": "Enseignement · mathématiques",
+    "bytes": 2196,
+    "bounds": [
+      0.3,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-dodecaedre",
+    "name": "Dodécaèdre",
+    "category": "Enseignement · mathématiques",
+    "bytes": 5136,
+    "bounds": [
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-icosaedre",
+    "name": "Icosaèdre",
+    "category": "Enseignement · mathématiques",
+    "bytes": 3604,
+    "bounds": [
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-tore-geometrique",
+    "name": "Tore géométrique",
+    "category": "Enseignement · mathématiques",
+    "bytes": 17404,
+    "bounds": [
+      0.35,
+      0.12,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-prisme-triangulaire",
+    "name": "Prisme triangulaire",
+    "category": "Enseignement · mathématiques",
+    "bytes": 2352,
+    "bounds": [
+      0.3,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-disque-de-fractions-en-quarts",
+    "name": "Disque de fractions en quarts",
+    "category": "Enseignement · mathématiques",
+    "bytes": 26688,
+    "bounds": [
+      0.45,
+      0.039999999999999994,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-disque-de-fractions-en-tiers",
+    "name": "Disque de fractions en tiers",
+    "category": "Enseignement · mathématiques",
+    "bytes": 20220,
+    "bounds": [
+      0.45,
+      0.039999999999999994,
+      0.44999999999999996
+    ]
+  },
+  {
+    "id": "wp-disque-de-fractions-en-sixiemes",
+    "name": "Disque de fractions en sixièmes",
+    "category": "Enseignement · mathématiques",
+    "bytes": 39852,
+    "bounds": [
+      0.45,
+      0.039999999999999994,
+      0.45000000000000007
+    ]
+  },
+  {
+    "id": "wp-barres-de-numeration",
+    "name": "Barres de numération",
+    "category": "Enseignement · mathématiques",
+    "bytes": 169112,
+    "bounds": [
+      0.6,
+      0.1,
+      0.39999999999999997
+    ]
+  },
+  {
+    "id": "wp-escalier-de-cubes",
+    "name": "Escalier de cubes",
+    "category": "Enseignement · mathématiques",
+    "bytes": 169012,
+    "bounds": [
+      0.6,
+      0.6,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-repere-a-trois-axes",
+    "name": "Repère à trois axes",
+    "category": "Enseignement · mathématiques",
+    "bytes": 38564,
+    "bounds": [
+      0.7,
+      0.7,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-compas-de-demonstration",
+    "name": "Compas de démonstration",
+    "category": "Enseignement · mathématiques",
+    "bytes": 51964,
+    "bounds": [
+      0.35,
+      0.6000000000000001,
+      0.06
+    ]
+  },
+  {
+    "id": "wp-tangram-en-volume",
+    "name": "Tangram en volume",
+    "category": "Enseignement · mathématiques",
+    "bytes": 13992,
+    "bounds": [
+      0.5,
+      0.029999999999999992,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-becher",
+    "name": "Bécher",
+    "category": "Enseignement · laboratoire",
+    "bytes": 78840,
+    "bounds": [
+      0.13,
+      0.17999999999999997,
+      0.13
+    ]
+  },
+  {
+    "id": "wp-eprouvette-graduee",
+    "name": "Éprouvette graduée",
+    "category": "Enseignement · laboratoire",
+    "bytes": 85800,
+    "bounds": [
+      0.09,
+      0.35,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-fiole-erlenmeyer",
+    "name": "Fiole Erlenmeyer",
+    "category": "Enseignement · laboratoire",
+    "bytes": 83092,
+    "bounds": [
+      0.15,
+      0.24,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-ballon-de-laboratoire",
+    "name": "Ballon de laboratoire",
+    "category": "Enseignement · laboratoire",
+    "bytes": 83100,
+    "bounds": [
+      0.18,
+      0.28,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-tube-a-essai",
+    "name": "Tube à essai",
+    "category": "Enseignement · laboratoire",
+    "bytes": 78848,
+    "bounds": [
+      0.025,
+      0.16,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-porte-tubes",
+    "name": "Porte-tubes",
+    "category": "Enseignement · laboratoire",
+    "bytes": 99076,
+    "bounds": [
+      0.3,
+      0.20000000000000004,
+      0.11999999999999998
+    ]
+  },
+  {
+    "id": "wp-pipette",
+    "name": "Pipette",
+    "category": "Enseignement · laboratoire",
+    "bytes": 27296,
+    "bounds": [
+      0.02,
+      0.25,
+      0.02
+    ]
+  },
+  {
+    "id": "wp-entonnoir",
+    "name": "Entonnoir",
+    "category": "Enseignement · laboratoire",
+    "bytes": 10040,
+    "bounds": [
+      0.11999999999999998,
+      0.18,
+      0.11999999999999998
+    ]
+  },
+  {
+    "id": "wp-bruleur-de-laboratoire",
+    "name": "Brûleur de laboratoire",
+    "category": "Enseignement · laboratoire",
+    "bytes": 29660,
+    "bounds": [
+      0.12,
+      0.23,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-support-et-pince",
+    "name": "Support et pince",
+    "category": "Enseignement · laboratoire",
+    "bytes": 43028,
+    "bounds": [
+      0.35,
+      0.6,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-lunettes-de-protection",
+    "name": "Lunettes de protection",
+    "category": "Enseignement · laboratoire",
+    "bytes": 55912,
+    "bounds": [
+      0.18,
+      0.08,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-modele-d-atome",
+    "name": "Modèle d’atome",
+    "category": "Enseignement · laboratoire",
+    "bytes": 127048,
+    "bounds": [
+      0.5000000000000001,
+      0.5,
+      0.49999999999999994
+    ]
+  },
+  {
+    "id": "wp-helice-d-adn-schematique",
+    "name": "Hélice d’ADN schématique",
+    "category": "Enseignement · laboratoire",
+    "bytes": 945548,
+    "bounds": [
+      0.35,
+      0.7999999999999999,
+      0.35000000000000003
+    ]
+  },
+  {
+    "id": "wp-aimant-en-fer-a-cheval",
+    "name": "Aimant en fer à cheval",
+    "category": "Enseignement · laboratoire",
+    "bytes": 62160,
+    "bounds": [
+      0.22,
+      0.25,
+      0.05
+    ]
+  },
+  {
+    "id": "wp-circuit-pile-et-ampoule",
+    "name": "Circuit pile et ampoule",
+    "category": "Enseignement · laboratoire",
+    "bytes": 89128,
+    "bounds": [
+      0.5,
+      0.18000000000000005,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-prisme-optique",
+    "name": "Prisme optique",
+    "category": "Enseignement · laboratoire",
+    "bytes": 2524,
+    "bounds": [
+      0.18,
+      0.16,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-pendule-de-demonstration",
+    "name": "Pendule de démonstration",
+    "category": "Enseignement · laboratoire",
+    "bytes": 71128,
+    "bounds": [
+      0.5,
+      0.6,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-ressort-de-demonstration",
+    "name": "Ressort de démonstration",
+    "category": "Enseignement · laboratoire",
+    "bytes": 49276,
+    "bounds": [
+      0.15,
+      0.4,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-loupe",
+    "name": "Loupe",
+    "category": "Enseignement · laboratoire",
+    "bytes": 32240,
+    "bounds": [
+      0.15,
+      0.30000000000000004,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-telescope-sur-trepied",
+    "name": "Télescope sur trépied",
+    "category": "Enseignement · laboratoire",
+    "bytes": 37508,
+    "bounds": [
+      0.7999999999999998,
+      1.3999999999999997,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-guitare-acoustique",
+    "name": "Guitare acoustique",
+    "category": "Arts · musique et création",
+    "bytes": 212284,
+    "bounds": [
+      0.4,
+      1,
+      0.11999999999999998
+    ]
+  },
+  {
+    "id": "wp-guitare-electrique",
+    "name": "Guitare électrique",
+    "category": "Arts · musique et création",
+    "bytes": 205104,
+    "bounds": [
+      0.35,
+      1,
+      0.07999999999999999
+    ]
+  },
+  {
+    "id": "wp-violon",
+    "name": "Violon",
+    "category": "Arts · musique et création",
+    "bytes": 219432,
+    "bounds": [
+      0.22,
+      0.6000000000000001,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-ukulele",
+    "name": "Ukulélé",
+    "category": "Arts · musique et création",
+    "bytes": 197824,
+    "bounds": [
+      0.22,
+      0.5500000000000002,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-piano-droit",
+    "name": "Piano droit",
+    "category": "Arts · musique et création",
+    "bytes": 555720,
+    "bounds": [
+      1.4000000000000001,
+      1.2000000000000002,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-clavier-numerique",
+    "name": "Clavier numérique",
+    "category": "Arts · musique et création",
+    "bytes": 555624,
+    "bounds": [
+      1.2,
+      0.8,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-tambour",
+    "name": "Tambour",
+    "category": "Arts · musique et création",
+    "bytes": 127500,
+    "bounds": [
+      0.4,
+      0.29999999999999993,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-caisse-claire",
+    "name": "Caisse claire",
+    "category": "Arts · musique et création",
+    "bytes": 127504,
+    "bounds": [
+      0.36,
+      0.16999999999999998,
+      0.36
+    ]
+  },
+  {
+    "id": "wp-djembe",
+    "name": "Djembé",
+    "category": "Arts · musique et création",
+    "bytes": 127504,
+    "bounds": [
+      0.3,
+      0.6,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-cymbale-sur-pied",
+    "name": "Cymbale sur pied",
+    "category": "Arts · musique et création",
+    "bytes": 36924,
+    "bounds": [
+      0.49999999999999994,
+      1.2,
+      0.49999999999999994
+    ]
+  },
+  {
+    "id": "wp-flute-a-bec",
+    "name": "Flûte à bec",
+    "category": "Arts · musique et création",
+    "bytes": 140572,
+    "bounds": [
+      0.04,
+      0.33,
+      0.039999999999999994
+    ]
+  },
+  {
+    "id": "wp-trompette",
+    "name": "Trompette",
+    "category": "Arts · musique et création",
+    "bytes": 81864,
+    "bounds": [
+      0.5,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-microphone-sur-pied",
+    "name": "Microphone sur pied",
+    "category": "Arts · musique et création",
+    "bytes": 48440,
+    "bounds": [
+      0.35000000000000003,
+      1.6,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-pupitre-a-partitions",
+    "name": "Pupitre à partitions",
+    "category": "Arts · musique et création",
+    "bytes": 45124,
+    "bounds": [
+      0.6,
+      1.2999999999999998,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-palette-de-peintre",
+    "name": "Palette de peintre",
+    "category": "Arts · musique et création",
+    "bytes": 134528,
+    "bounds": [
+      0.3,
+      0.025,
+      0.23
+    ]
+  },
+  {
+    "id": "wp-pinceau-plat",
+    "name": "Pinceau plat",
+    "category": "Arts · musique et création",
+    "bytes": 76560,
+    "bounds": [
+      0.035,
+      0.28,
+      0.014999999999999998
+    ]
+  },
+  {
+    "id": "wp-chevalet-de-peintre",
+    "name": "Chevalet de peintre",
+    "category": "Arts · musique et création",
+    "bytes": 75604,
+    "bounds": [
+      0.75,
+      1.6999999999999997,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-toile-encadree",
+    "name": "Toile encadrée",
+    "category": "Arts · musique et création",
+    "bytes": 87116,
+    "bounds": [
+      0.6,
+      0.8,
+      0.044999999999999984
+    ]
+  },
+  {
+    "id": "wp-tour-de-potier",
+    "name": "Tour de potier",
+    "category": "Arts · musique et création",
+    "bytes": 103488,
+    "bounds": [
+      0.6,
+      0.7000000000000001,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-vase-d-atelier",
+    "name": "Vase d’atelier",
+    "category": "Arts · musique et création",
+    "bytes": 15672,
+    "bounds": [
+      0.25,
+      0.4,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-portant-a-vetements",
+    "name": "Portant à vêtements",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 152540,
+    "bounds": [
+      1.2000000000000002,
+      1.6000000000000003,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-cintre",
+    "name": "Cintre",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 38968,
+    "bounds": [
+      0.41999999999999993,
+      0.21999999999999997,
+      0.02
+    ]
+  },
+  {
+    "id": "wp-presentoir-a-chaussures",
+    "name": "Présentoir à chaussures",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 67512,
+    "bounds": [
+      0.8,
+      1.1999999999999997,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-tourniquet-a-cartes",
+    "name": "Tourniquet à cartes",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 359740,
+    "bounds": [
+      0.6,
+      1.5999999999999999,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-caisse-enregistreuse",
+    "name": "Caisse enregistreuse",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 375804,
+    "bounds": [
+      0.4,
+      0.29999999999999993,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-terminal-de-paiement",
+    "name": "Terminal de paiement",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 250732,
+    "bounds": [
+      0.09,
+      0.16999999999999998,
+      0.06
+    ]
+  },
+  {
+    "id": "wp-scanner-de-caisse",
+    "name": "Scanner de caisse",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 34780,
+    "bounds": [
+      0.1,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-panier-de-courses",
+    "name": "Panier de courses",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 409756,
+    "bounds": [
+      0.45,
+      0.29999999999999993,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-chariot-de-supermarche",
+    "name": "Chariot de supermarché",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 345636,
+    "bounds": [
+      0.6,
+      0.9999999999999999,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-sac-de-courses-en-papier",
+    "name": "Sac de courses en papier",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 28528,
+    "bounds": [
+      0.3,
+      0.4000000000000001,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-boite-cadeau",
+    "name": "Boîte cadeau",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 67832,
+    "bounds": [
+      0.25,
+      0.25,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-presentoir-a-bijoux",
+    "name": "Présentoir à bijoux",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 59484,
+    "bounds": [
+      0.35,
+      0.5,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-buste-a-colliers",
+    "name": "Buste à colliers",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 54960,
+    "bounds": [
+      0.3,
+      0.39999999999999997,
+      0.20000000000000004
+    ]
+  },
+  {
+    "id": "wp-miroir-de-boutique",
+    "name": "Miroir de boutique",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 37520,
+    "bounds": [
+      0.6,
+      1.7000000000000002,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-cabine-d-essayage",
+    "name": "Cabine d’essayage",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 187376,
+    "bounds": [
+      1.2,
+      2.2,
+      1.2
+    ]
+  },
+  {
+    "id": "wp-mannequin-de-vitrine-assis",
+    "name": "Mannequin de vitrine assis",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 100472,
+    "bounds": [
+      0.6000000000000001,
+      1.1999999999999997,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-vitrine-refrigeree",
+    "name": "Vitrine réfrigérée",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 267788,
+    "bounds": [
+      1.5000000000000002,
+      1.3,
+      0.7999999999999999
+    ]
+  },
+  {
+    "id": "wp-cageot-a-fruits",
+    "name": "Cageot à fruits",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 234788,
+    "bounds": [
+      0.5,
+      0.25000000000000006,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-presentoir-a-lunettes",
+    "name": "Présentoir à lunettes",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 502020,
+    "bounds": [
+      0.4,
+      0.6500000000000001,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-panneau-de-prix-sur-pied",
+    "name": "Panneau de prix sur pied",
+    "category": "Boutiques · vente et présentation",
+    "bytes": 60120,
+    "bounds": [
+      0.45,
+      1.1,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-bureau-individuel",
+    "name": "Bureau individuel",
+    "category": "Réunions · travail et conférences",
+    "bytes": 96656,
+    "bounds": [
+      1.4,
+      0.75,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-table-haute-de-reunion",
+    "name": "Table haute de réunion",
+    "category": "Réunions · travail et conférences",
+    "bytes": 92616,
+    "bounds": [
+      1.2,
+      1.1,
+      0.65
+    ]
+  },
+  {
+    "id": "wp-table-de-conference-en-u",
+    "name": "Table de conférence en U",
+    "category": "Réunions · travail et conférences",
+    "bytes": 79064,
+    "bounds": [
+      2.4000000000000004,
+      0.75,
+      2.2
+    ]
+  },
+  {
+    "id": "wp-fauteuil-de-conference",
+    "name": "Fauteuil de conférence",
+    "category": "Réunions · travail et conférences",
+    "bytes": 133596,
+    "bounds": [
+      0.6,
+      0.9500000000000002,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-tabouret-haut",
+    "name": "Tabouret haut",
+    "category": "Réunions · travail et conférences",
+    "bytes": 85396,
+    "bounds": [
+      0.45,
+      0.95,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-ordinateur-portable",
+    "name": "Ordinateur portable",
+    "category": "Réunions · travail et conférences",
+    "bytes": 761464,
+    "bounds": [
+      0.34,
+      0.24,
+      0.24999999999999997
+    ]
+  },
+  {
+    "id": "wp-moniteur-sur-pied",
+    "name": "Moniteur sur pied",
+    "category": "Réunions · travail et conférences",
+    "bytes": 128712,
+    "bounds": [
+      0.55,
+      0.42000000000000004,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-clavier-informatique",
+    "name": "Clavier informatique",
+    "category": "Réunions · travail et conférences",
+    "bytes": 690544,
+    "bounds": [
+      0.44,
+      0.025,
+      0.14000000000000004
+    ]
+  },
+  {
+    "id": "wp-souris-informatique",
+    "name": "Souris informatique",
+    "category": "Réunions · travail et conférences",
+    "bytes": 67660,
+    "bounds": [
+      0.06,
+      0.039999999999999994,
+      0.11
+    ]
+  },
+  {
+    "id": "wp-webcam",
+    "name": "Webcam",
+    "category": "Réunions · travail et conférences",
+    "bytes": 37744,
+    "bounds": [
+      0.12,
+      0.07,
+      0.05
+    ]
+  },
+  {
+    "id": "wp-videoprojecteur",
+    "name": "Vidéoprojecteur",
+    "category": "Réunions · travail et conférences",
+    "bytes": 482000,
+    "bounds": [
+      0.3,
+      0.12,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-ecran-de-projection-deroulant",
+    "name": "Écran de projection déroulant",
+    "category": "Réunions · travail et conférences",
+    "bytes": 110628,
+    "bounds": [
+      1.7999999999999998,
+      1.9999999999999998,
+      0.44999999999999996
+    ]
+  },
+  {
+    "id": "wp-enceinte-de-conference",
+    "name": "Enceinte de conférence",
+    "category": "Réunions · travail et conférences",
+    "bytes": 64204,
+    "bounds": [
+      0.3,
+      0.6,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-telephone-de-conference",
+    "name": "Téléphone de conférence",
+    "category": "Réunions · travail et conférences",
+    "bytes": 453848,
+    "bounds": [
+      0.30000000000000004,
+      0.08,
+      0.26
+    ]
+  },
+  {
+    "id": "wp-bloc-de-notes-adhesives",
+    "name": "Bloc de notes adhésives",
+    "category": "Réunions · travail et conférences",
+    "bytes": 11784,
+    "bounds": [
+      0.1,
+      0.025,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-organiseur-de-bureau",
+    "name": "Organiseur de bureau",
+    "category": "Réunions · travail et conférences",
+    "bytes": 89940,
+    "bounds": [
+      0.3,
+      0.16000000000000003,
+      0.19999999999999996
+    ]
+  },
+  {
+    "id": "wp-corbeille-a-courrier",
+    "name": "Corbeille à courrier",
+    "category": "Réunions · travail et conférences",
+    "bytes": 89844,
+    "bounds": [
+      0.35,
+      0.12,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-badge-de-participant",
+    "name": "Badge de participant",
+    "category": "Réunions · travail et conférences",
+    "bytes": 56816,
+    "bounds": [
+      0.1,
+      0.30000000000000004,
+      0.015
+    ]
+  },
+  {
+    "id": "wp-porte-documents",
+    "name": "Porte-documents",
+    "category": "Réunions · travail et conférences",
+    "bytes": 51004,
+    "bounds": [
+      0.4,
+      0.29999999999999993,
+      0.10000000000000002
+    ]
+  },
+  {
+    "id": "wp-horloge-murale",
+    "name": "Horloge murale",
+    "category": "Réunions · travail et conférences",
+    "bytes": 164916,
+    "bounds": [
+      0.3,
+      0.3,
+      0.035
+    ]
+  },
+  {
+    "id": "wp-epee-de-chevalier",
+    "name": "Épée de chevalier",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 40428,
+    "bounds": [
+      0.25,
+      1,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-bouclier-rond",
+    "name": "Bouclier rond",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 46996,
+    "bounds": [
+      0.6,
+      0.6,
+      0.10000000000000003
+    ]
+  },
+  {
+    "id": "wp-bouclier-heraldique",
+    "name": "Bouclier héraldique",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 25508,
+    "bounds": [
+      0.5,
+      0.7,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-casque-de-chevalier",
+    "name": "Casque de chevalier",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 78664,
+    "bounds": [
+      0.3,
+      0.35,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-hache-de-fantasy",
+    "name": "Hache de fantasy",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 9784,
+    "bounds": [
+      0.4,
+      0.8,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-arc-de-bois",
+    "name": "Arc de bois",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 15132,
+    "bounds": [
+      0.3499999999999999,
+      1,
+      0.05999999999999999
+    ]
+  },
+  {
+    "id": "wp-carquois-de-fleches",
+    "name": "Carquois de flèches",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 103040,
+    "bounds": [
+      0.18,
+      0.7,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-baton-de-mage",
+    "name": "Bâton de mage",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 26432,
+    "bounds": [
+      0.2,
+      1.7000000000000002,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-fiole-de-potion",
+    "name": "Fiole de potion",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 22856,
+    "bounds": [
+      0.12,
+      0.2,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-cristal-magique",
+    "name": "Cristal magique",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 5156,
+    "bounds": [
+      0.25,
+      0.5,
+      0.24999999999999997
+    ]
+  },
+  {
+    "id": "wp-torche-murale",
+    "name": "Torche murale",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 45624,
+    "bounds": [
+      0.15,
+      0.6500000000000001,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-brasero",
+    "name": "Brasero",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 179688,
+    "bounds": [
+      0.6,
+      0.7,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-tonneau",
+    "name": "Tonneau",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 263940,
+    "bounds": [
+      0.6,
+      0.85,
+      0.6
+    ]
+  },
+  {
+    "id": "wp-caisse-de-butin",
+    "name": "Caisse de butin",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 245936,
+    "bounds": [
+      0.7,
+      0.6000000000000001,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-sac-de-pieces",
+    "name": "Sac de pièces",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 43508,
+    "bounds": [
+      0.2,
+      0.25000000000000006,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-parchemin-deroule",
+    "name": "Parchemin déroulé",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 82368,
+    "bounds": [
+      0.5,
+      0.039999999999999994,
+      0.35000000000000003
+    ]
+  },
+  {
+    "id": "wp-livre-de-grimoire",
+    "name": "Livre de grimoire",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 224544,
+    "bounds": [
+      0.35,
+      0.09,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-autel-de-pierre",
+    "name": "Autel de pierre",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 45612,
+    "bounds": [
+      1.4,
+      0.8999999999999999,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-portail-de-donjon",
+    "name": "Portail de donjon",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 39640,
+    "bounds": [
+      1.8,
+      2.5,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-roue-de-puzzle",
+    "name": "Roue de puzzle",
+    "category": "Jeux · aventure et fantasy",
+    "bytes": 82184,
+    "bounds": [
+      0.6,
+      0.6,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-borne-d-arcade",
+    "name": "Borne d’arcade",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 185992,
+    "bounds": [
+      0.75,
+      1.7999999999999998,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-flipper",
+    "name": "Flipper",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 200824,
+    "bounds": [
+      0.65,
+      1.2000000000000002,
+      1.3
+    ]
+  },
+  {
+    "id": "wp-manette-de-jeu",
+    "name": "Manette de jeu",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 129764,
+    "bounds": [
+      0.16,
+      0.07,
+      0.09999999999999999
+    ]
+  },
+  {
+    "id": "wp-joystick",
+    "name": "Joystick",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 76396,
+    "bounds": [
+      0.15,
+      0.20000000000000004,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-casque-vr",
+    "name": "Casque VR",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 39976,
+    "bounds": [
+      0.22,
+      0.12,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-controleurs-vr",
+    "name": "Contrôleurs VR",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 86460,
+    "bounds": [
+      0.24,
+      0.2,
+      0.09999999999999999
+    ]
+  },
+  {
+    "id": "wp-robot-compagnon",
+    "name": "Robot compagnon",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 127336,
+    "bounds": [
+      0.49999999999999994,
+      1,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-robot-quadrupede",
+    "name": "Robot quadrupède",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 164412,
+    "bounds": [
+      0.7,
+      0.5,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-drone-a-quatre-rotors",
+    "name": "Drone à quatre rotors",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 114608,
+    "bounds": [
+      0.7,
+      0.20000000000000004,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-console-holographique",
+    "name": "Console holographique",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 84180,
+    "bounds": [
+      0.8,
+      1.2,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-capsule-spatiale",
+    "name": "Capsule spatiale",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 90584,
+    "bounds": [
+      1,
+      1.9999999999999998,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-conteneur-futuriste",
+    "name": "Conteneur futuriste",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 246384,
+    "bounds": [
+      0.9,
+      0.6000000000000001,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-reacteur-d-energie",
+    "name": "Réacteur d’énergie",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 115124,
+    "bounds": [
+      0.8,
+      1.4,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-antenne-satellite",
+    "name": "Antenne satellite",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 53656,
+    "bounds": [
+      1.2,
+      1.6,
+      1.2000000000000002
+    ]
+  },
+  {
+    "id": "wp-porte-de-sas",
+    "name": "Porte de sas",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 68168,
+    "bounds": [
+      1.5,
+      2.3999999999999995,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-balise-de-checkpoint",
+    "name": "Balise de checkpoint",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 51020,
+    "bounds": [
+      0.4,
+      1.2,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-plateforme-de-teleportation",
+    "name": "Plateforme de téléportation",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 176508,
+    "bounds": [
+      1.5000000000000002,
+      0.2,
+      1.5000000000000002
+    ]
+  },
+  {
+    "id": "wp-tourelle-de-capteurs",
+    "name": "Tourelle de capteurs",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 41388,
+    "bounds": [
+      0.5,
+      1.1,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-module-de-serveur",
+    "name": "Module de serveur",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 453800,
+    "bounds": [
+      0.6,
+      1.7999999999999998,
+      0.6999999999999997
+    ]
+  },
+  {
+    "id": "wp-trophee-de-tournoi",
+    "name": "Trophée de tournoi",
+    "category": "Jeux · science-fiction et arcade",
+    "bytes": 63012,
+    "bounds": [
+      0.4,
+      0.6,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-ballon-de-football",
+    "name": "Ballon de football",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 209244,
+    "bounds": [
+      0.22000000000000003,
+      0.22,
+      0.22
+    ]
+  },
+  {
+    "id": "wp-ballon-de-basket",
+    "name": "Ballon de basket",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 69740,
+    "bounds": [
+      0.24,
+      0.24,
+      0.24
+    ]
+  },
+  {
+    "id": "wp-ballon-de-rugby",
+    "name": "Ballon de rugby",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 69648,
+    "bounds": [
+      0.3,
+      0.18,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-balle-de-tennis",
+    "name": "Balle de tennis",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 69732,
+    "bounds": [
+      0.067,
+      0.067,
+      0.067
+    ]
+  },
+  {
+    "id": "wp-raquette-de-tennis",
+    "name": "Raquette de tennis",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 154104,
+    "bounds": [
+      0.28,
+      0.6800000000000002,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-raquette-de-ping-pong",
+    "name": "Raquette de ping-pong",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 31808,
+    "bounds": [
+      0.15,
+      0.26000000000000006,
+      0.012
+    ]
+  },
+  {
+    "id": "wp-volant-de-badminton",
+    "name": "Volant de badminton",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 124116,
+    "bounds": [
+      0.065,
+      0.08499999999999999,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-but-de-football",
+    "name": "But de football",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 180308,
+    "bounds": [
+      1.9999999999999998,
+      1.3,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-panier-de-basket",
+    "name": "Panier de basket",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 120584,
+    "bounds": [
+      1,
+      2.8000000000000003,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-cone-de-sport",
+    "name": "Cône de sport",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 26640,
+    "bounds": [
+      0.25,
+      0.4000000000000001,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-haie-d-athletisme",
+    "name": "Haie d’athlétisme",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 56956,
+    "bounds": [
+      1,
+      0.8,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-haltere",
+    "name": "Haltère",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 22440,
+    "bounds": [
+      0.35,
+      0.12999999999999995,
+      0.13
+    ]
+  },
+  {
+    "id": "wp-tapis-de-gymnastique",
+    "name": "Tapis de gymnastique",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 11924,
+    "bounds": [
+      0.7000000000000001,
+      0.03,
+      1.8
+    ]
+  },
+  {
+    "id": "wp-velo-d-appartement",
+    "name": "Vélo d’appartement",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 63044,
+    "bounds": [
+      0.5,
+      1.2,
+      0.9999999999999998
+    ]
+  },
+  {
+    "id": "wp-table-de-ping-pong",
+    "name": "Table de ping-pong",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 130236,
+    "bounds": [
+      1.5,
+      0.76,
+      2.4
+    ]
+  },
+  {
+    "id": "wp-echiquier-et-pieces",
+    "name": "Échiquier et pièces",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 1792232,
+    "bounds": [
+      0.5,
+      0.1,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-plateau-de-dames",
+    "name": "Plateau de dames",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 899328,
+    "bounds": [
+      0.45,
+      0.03,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-de-a-jouer",
+    "name": "Dé à jouer",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 144636,
+    "bounds": [
+      0.06,
+      0.05999999999999999,
+      0.06
+    ]
+  },
+  {
+    "id": "wp-dominos",
+    "name": "Dominos",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 279864,
+    "bounds": [
+      0.2,
+      0.012000000000000002,
+      0.14
+    ]
+  },
+  {
+    "id": "wp-quilles-et-boule",
+    "name": "Quilles et boule",
+    "category": "Sports · loisirs et jeux de société",
+    "bytes": 175712,
+    "bounds": [
+      0.6000000000000001,
+      0.38,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-sapin",
+    "name": "Sapin",
+    "category": "Nature · jardin et environnement",
+    "bytes": 28784,
+    "bounds": [
+      1.3,
+      2.8,
+      1.3
+    ]
+  },
+  {
+    "id": "wp-palmier",
+    "name": "Palmier",
+    "category": "Nature · jardin et environnement",
+    "bytes": 160084,
+    "bounds": [
+      2,
+      3,
+      1.9999999999999998
+    ]
+  },
+  {
+    "id": "wp-cactus",
+    "name": "Cactus",
+    "category": "Nature · jardin et environnement",
+    "bytes": 93188,
+    "bounds": [
+      0.6,
+      1.2,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-bambous",
+    "name": "Bambous",
+    "category": "Nature · jardin et environnement",
+    "bytes": 926496,
+    "bounds": [
+      0.8,
+      2.2,
+      0.5999999999999999
+    ]
+  },
+  {
+    "id": "wp-buisson-fleuri",
+    "name": "Buisson fleuri",
+    "category": "Nature · jardin et environnement",
+    "bytes": 835472,
+    "bounds": [
+      0.8999999999999999,
+      0.6999999999999998,
+      0.7
+    ]
+  },
+  {
+    "id": "wp-tournesol",
+    "name": "Tournesol",
+    "category": "Nature · jardin et environnement",
+    "bytes": 185688,
+    "bounds": [
+      0.4,
+      1.2000000000000002,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-tulipe",
+    "name": "Tulipe",
+    "category": "Nature · jardin et environnement",
+    "bytes": 185936,
+    "bounds": [
+      0.15999999999999998,
+      0.45000000000000007,
+      0.16
+    ]
+  },
+  {
+    "id": "wp-rose-en-pot",
+    "name": "Rose en pot",
+    "category": "Nature · jardin et environnement",
+    "bytes": 185936,
+    "bounds": [
+      0.30000000000000004,
+      0.5500000000000002,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-lavande-en-pot",
+    "name": "Lavande en pot",
+    "category": "Nature · jardin et environnement",
+    "bytes": 634016,
+    "bounds": [
+      0.4,
+      0.6,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-nenuphar",
+    "name": "Nénuphar",
+    "category": "Nature · jardin et environnement",
+    "bytes": 178748,
+    "bounds": [
+      0.44999999999999996,
+      0.08000000000000002,
+      0.44999999999999996
+    ]
+  },
+  {
+    "id": "wp-tronc-couche",
+    "name": "Tronc couché",
+    "category": "Nature · jardin et environnement",
+    "bytes": 74648,
+    "bounds": [
+      1.2,
+      0.35,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-souche",
+    "name": "Souche",
+    "category": "Nature · jardin et environnement",
+    "bytes": 81764,
+    "bounds": [
+      0.55,
+      0.45,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-champignons-forestiers",
+    "name": "Champignons forestiers",
+    "category": "Nature · jardin et environnement",
+    "bytes": 363544,
+    "bounds": [
+      0.35,
+      0.30000000000000004,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-arrosoir",
+    "name": "Arrosoir",
+    "category": "Nature · jardin et environnement",
+    "bytes": 42396,
+    "bounds": [
+      0.5,
+      0.35,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-brouette",
+    "name": "Brouette",
+    "category": "Nature · jardin et environnement",
+    "bytes": 48028,
+    "bounds": [
+      0.7000000000000001,
+      0.6500000000000001,
+      1.3
+    ]
+  },
+  {
+    "id": "wp-pelle-de-jardin",
+    "name": "Pelle de jardin",
+    "category": "Nature · jardin et environnement",
+    "bytes": 27036,
+    "bounds": [
+      0.25,
+      1.2,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-rateau",
+    "name": "Râteau",
+    "category": "Nature · jardin et environnement",
+    "bytes": 80000,
+    "bounds": [
+      0.4,
+      1.2999999999999998,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-composteur",
+    "name": "Composteur",
+    "category": "Nature · jardin et environnement",
+    "bytes": 257452,
+    "bounds": [
+      0.8,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-nichoir",
+    "name": "Nichoir",
+    "category": "Nature · jardin et environnement",
+    "bytes": 48908,
+    "bounds": [
+      0.25,
+      0.35,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-hotel-a-insectes",
+    "name": "Hôtel à insectes",
+    "category": "Nature · jardin et environnement",
+    "bytes": 322268,
+    "bounds": [
+      0.5,
+      0.7,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-zafu-rond",
+    "name": "Zafu rond",
+    "category": "Bien-être · repos et expression",
+    "bytes": 7840,
+    "bounds": [
+      0.4,
+      0.18,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-tapis-de-meditation",
+    "name": "Tapis de méditation",
+    "category": "Bien-être · repos et expression",
+    "bytes": 68016,
+    "bounds": [
+      0.8999999999999999,
+      0.04000000000000001,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-bol-chantant",
+    "name": "Bol chantant",
+    "category": "Bien-être · repos et expression",
+    "bytes": 18644,
+    "bounds": [
+      0.2,
+      0.10999999999999999,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-carillon-a-vent",
+    "name": "Carillon à vent",
+    "category": "Bien-être · repos et expression",
+    "bytes": 93968,
+    "bounds": [
+      0.3,
+      0.6,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-diffuseur-d-ambiance",
+    "name": "Diffuseur d’ambiance",
+    "category": "Bien-être · repos et expression",
+    "bytes": 26792,
+    "bounds": [
+      0.15,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-bougie-en-pot",
+    "name": "Bougie en pot",
+    "category": "Bien-être · repos et expression",
+    "bytes": 26096,
+    "bounds": [
+      0.1,
+      0.13,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-sablier",
+    "name": "Sablier",
+    "category": "Bien-être · repos et expression",
+    "bytes": 52728,
+    "bounds": [
+      0.15,
+      0.30000000000000004,
+      0.15
+    ]
+  },
+  {
+    "id": "wp-jardin-de-galets",
+    "name": "Jardin de galets",
+    "category": "Bien-être · repos et expression",
+    "bytes": 118008,
+    "bounds": [
+      0.6,
+      0.1,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-balle-sensorielle",
+    "name": "Balle sensorielle",
+    "category": "Bien-être · repos et expression",
+    "bytes": 1158336,
+    "bounds": [
+      0.09999999999999999,
+      0.1,
+      0.09999999999999998
+    ]
+  },
+  {
+    "id": "wp-cube-tactile",
+    "name": "Cube tactile",
+    "category": "Bien-être · repos et expression",
+    "bytes": 314824,
+    "bounds": [
+      0.1,
+      0.1,
+      0.09999999999999998
+    ]
+  },
+  {
+    "id": "wp-coussin-etoile",
+    "name": "Coussin étoile",
+    "category": "Bien-être · repos et expression",
+    "bytes": 5128,
+    "bounds": [
+      0.45,
+      0.12,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-fauteuil-a-bascule",
+    "name": "Fauteuil à bascule",
+    "category": "Bien-être · repos et expression",
+    "bytes": 143072,
+    "bounds": [
+      0.7,
+      1.1,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-chaise-longue",
+    "name": "Chaise longue",
+    "category": "Bien-être · repos et expression",
+    "bytes": 96632,
+    "bounds": [
+      0.7,
+      0.9000000000000001,
+      1.8
+    ]
+  },
+  {
+    "id": "wp-hamac-sur-support",
+    "name": "Hamac sur support",
+    "category": "Bien-être · repos et expression",
+    "bytes": 213700,
+    "bounds": [
+      2.2,
+      1.0000000000000002,
+      0.9
+    ]
+  },
+  {
+    "id": "wp-paravent-ajoure",
+    "name": "Paravent ajouré",
+    "category": "Bien-être · repos et expression",
+    "bytes": 368876,
+    "bounds": [
+      1.8,
+      1.6999999999999997,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-rideau-sur-portique",
+    "name": "Rideau sur portique",
+    "category": "Bien-être · repos et expression",
+    "bytes": 150880,
+    "bounds": [
+      1.8,
+      2.1999999999999997,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-vase-et-branches",
+    "name": "Vase et branches",
+    "category": "Bien-être · repos et expression",
+    "bytes": 146372,
+    "bounds": [
+      0.4,
+      0.8999999999999999,
+      0.3
+    ]
+  },
+  {
+    "id": "wp-plateau-de-the",
+    "name": "Plateau de thé",
+    "category": "Bien-être · repos et expression",
+    "bytes": 111908,
+    "bounds": [
+      0.5,
+      0.20000000000000004,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-coffret-d-expression",
+    "name": "Coffret d’expression",
+    "category": "Bien-être · repos et expression",
+    "bytes": 34528,
+    "bounds": [
+      0.3,
+      0.15,
+      0.22
+    ]
+  },
+  {
+    "id": "wp-roue-des-humeurs",
+    "name": "Roue des humeurs",
+    "category": "Bien-être · repos et expression",
+    "bytes": 51108,
+    "bounds": [
+      0.5,
+      0.6000000000000001,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-marteau",
+    "name": "Marteau",
+    "category": "Métiers · atelier et formation",
+    "bytes": 18992,
+    "bounds": [
+      0.16,
+      0.32,
+      0.045
+    ]
+  },
+  {
+    "id": "wp-maillet",
+    "name": "Maillet",
+    "category": "Métiers · atelier et formation",
+    "bytes": 18800,
+    "bounds": [
+      0.18,
+      0.35000000000000003,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-tournevis-cruciforme",
+    "name": "Tournevis cruciforme",
+    "category": "Métiers · atelier et formation",
+    "bytes": 26320,
+    "bounds": [
+      0.035,
+      0.24999999999999997,
+      0.035
+    ]
+  },
+  {
+    "id": "wp-cle-plate",
+    "name": "Clé plate",
+    "category": "Métiers · atelier et formation",
+    "bytes": 41008,
+    "bounds": [
+      0.06,
+      0.25,
+      0.02
+    ]
+  },
+  {
+    "id": "wp-cle-a-molette",
+    "name": "Clé à molette",
+    "category": "Métiers · atelier et formation",
+    "bytes": 52172,
+    "bounds": [
+      0.08,
+      0.2800000000000001,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-pince-universelle",
+    "name": "Pince universelle",
+    "category": "Métiers · atelier et formation",
+    "bytes": 48624,
+    "bounds": [
+      0.07999999999999999,
+      0.21999999999999992,
+      0.029999999999999995
+    ]
+  },
+  {
+    "id": "wp-scie-a-main",
+    "name": "Scie à main",
+    "category": "Métiers · atelier et formation",
+    "bytes": 38216,
+    "bounds": [
+      0.14,
+      0.49999999999999994,
+      0.035
+    ]
+  },
+  {
+    "id": "wp-perceuse",
+    "name": "Perceuse",
+    "category": "Métiers · atelier et formation",
+    "bytes": 41892,
+    "bounds": [
+      0.30000000000000004,
+      0.25,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-etau-d-etabli",
+    "name": "Étau d’établi",
+    "category": "Métiers · atelier et formation",
+    "bytes": 48408,
+    "bounds": [
+      0.3,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-metre-ruban",
+    "name": "Mètre ruban",
+    "category": "Métiers · atelier et formation",
+    "bytes": 129300,
+    "bounds": [
+      0.08000000000000002,
+      0.08,
+      0.039999999999999994
+    ]
+  },
+  {
+    "id": "wp-niveau-a-bulle",
+    "name": "Niveau à bulle",
+    "category": "Métiers · atelier et formation",
+    "bytes": 42352,
+    "bounds": [
+      0.5,
+      0.055,
+      0.025
+    ]
+  },
+  {
+    "id": "wp-casque-de-chantier",
+    "name": "Casque de chantier",
+    "category": "Métiers · atelier et formation",
+    "bytes": 27912,
+    "bounds": [
+      0.28,
+      0.18,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-gilet-de-securite",
+    "name": "Gilet de sécurité",
+    "category": "Métiers · atelier et formation",
+    "bytes": 38820,
+    "bounds": [
+      0.5,
+      0.65,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-caisse-a-outils",
+    "name": "Caisse à outils",
+    "category": "Métiers · atelier et formation",
+    "bytes": 62484,
+    "bounds": [
+      0.49999999999999994,
+      0.25,
+      0.25
+    ]
+  },
+  {
+    "id": "wp-echelle-double",
+    "name": "Échelle double",
+    "category": "Métiers · atelier et formation",
+    "bytes": 79800,
+    "bounds": [
+      0.6,
+      1.8,
+      0.8999999999999999
+    ]
+  },
+  {
+    "id": "wp-diable-de-manutention",
+    "name": "Diable de manutention",
+    "category": "Métiers · atelier et formation",
+    "bytes": 62272,
+    "bounds": [
+      0.5,
+      1.2,
+      0.45000000000000007
+    ]
+  },
+  {
+    "id": "wp-palette-logistique",
+    "name": "Palette logistique",
+    "category": "Métiers · atelier et formation",
+    "bytes": 112420,
+    "bounds": [
+      1.2,
+      0.14,
+      0.8
+    ]
+  },
+  {
+    "id": "wp-cone-de-chantier",
+    "name": "Cône de chantier",
+    "category": "Métiers · atelier et formation",
+    "bytes": 26732,
+    "bounds": [
+      0.35,
+      0.6500000000000001,
+      0.35
+    ]
+  },
+  {
+    "id": "wp-barriere-de-chantier",
+    "name": "Barrière de chantier",
+    "category": "Métiers · atelier et formation",
+    "bytes": 169052,
+    "bounds": [
+      1.5,
+      1,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-trousse-de-premiers-secours",
+    "name": "Trousse de premiers secours",
+    "category": "Métiers · atelier et formation",
+    "bytes": 51056,
+    "bounds": [
+      0.35,
+      0.25,
+      0.11999999999999998
+    ]
+  },
+  {
+    "id": "wp-mur-plein",
+    "name": "Mur plein",
+    "category": "Architecture · modules de scène",
+    "bytes": 11872,
+    "bounds": [
+      2.4,
+      2.5,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-mur-avec-fenetre",
+    "name": "Mur avec fenêtre",
+    "category": "Architecture · modules de scène",
+    "bytes": 56876,
+    "bounds": [
+      2.4,
+      2.5,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-mur-avec-ouverture-de-porte",
+    "name": "Mur avec ouverture de porte",
+    "category": "Architecture · modules de scène",
+    "bytes": 34188,
+    "bounds": [
+      2.4,
+      2.5,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-sol-parquet",
+    "name": "Sol parquet",
+    "category": "Architecture · modules de scène",
+    "bytes": 336028,
+    "bounds": [
+      2.4,
+      0.07999999999999999,
+      2.4
+    ]
+  },
+  {
+    "id": "wp-sol-carrele",
+    "name": "Sol carrelé",
+    "category": "Architecture · modules de scène",
+    "bytes": 280508,
+    "bounds": [
+      2.4,
+      0.07999999999999999,
+      2.4
+    ]
+  },
+  {
+    "id": "wp-sol-de-pierre",
+    "name": "Sol de pierre",
+    "category": "Architecture · modules de scène",
+    "bytes": 280756,
+    "bounds": [
+      2.4,
+      0.07999999999999999,
+      2.4
+    ]
+  },
+  {
+    "id": "wp-estrade",
+    "name": "Estrade",
+    "category": "Architecture · modules de scène",
+    "bytes": 23148,
+    "bounds": [
+      2,
+      0.39999999999999997,
+      1.5
+    ]
+  },
+  {
+    "id": "wp-escalier-droit",
+    "name": "Escalier droit",
+    "category": "Architecture · modules de scène",
+    "bytes": 67700,
+    "bounds": [
+      1,
+      1.2000000000000002,
+      1.8
+    ]
+  },
+  {
+    "id": "wp-rampe-d-acces",
+    "name": "Rampe d’accès",
+    "category": "Architecture · modules de scène",
+    "bytes": 2348,
+    "bounds": [
+      1.1999999999999997,
+      0.44999999999999996,
+      2.3999999999999995
+    ]
+  },
+  {
+    "id": "wp-garde-corps",
+    "name": "Garde-corps",
+    "category": "Architecture · modules de scène",
+    "bytes": 168708,
+    "bounds": [
+      2,
+      1,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-colonne-classique",
+    "name": "Colonne classique",
+    "category": "Architecture · modules de scène",
+    "bytes": 116068,
+    "bounds": [
+      0.5,
+      2.4,
+      0.5
+    ]
+  },
+  {
+    "id": "wp-pilier-carre",
+    "name": "Pilier carré",
+    "category": "Architecture · modules de scène",
+    "bytes": 34060,
+    "bounds": [
+      0.4,
+      2.4,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-arche-de-jardin",
+    "name": "Arche de jardin",
+    "category": "Architecture · modules de scène",
+    "bytes": 153352,
+    "bounds": [
+      1.6,
+      2.3,
+      0.4
+    ]
+  },
+  {
+    "id": "wp-pergola",
+    "name": "Pergola",
+    "category": "Architecture · modules de scène",
+    "bytes": 185696,
+    "bounds": [
+      2.4,
+      2.4999999999999996,
+      2.4
+    ]
+  },
+  {
+    "id": "wp-fenetre-a-volets",
+    "name": "Fenêtre à volets",
+    "category": "Architecture · modules de scène",
+    "bytes": 325536,
+    "bounds": [
+      1.2,
+      1.4,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-porte-vitree",
+    "name": "Porte vitrée",
+    "category": "Architecture · modules de scène",
+    "bytes": 34692,
+    "bounds": [
+      0.95,
+      2.1,
+      0.12000000000000001
+    ]
+  },
+  {
+    "id": "wp-porte-coulissante",
+    "name": "Porte coulissante",
+    "category": "Architecture · modules de scène",
+    "bytes": 79332,
+    "bounds": [
+      1.8,
+      2.0999999999999996,
+      0.12
+    ]
+  },
+  {
+    "id": "wp-auvent-de-terrasse",
+    "name": "Auvent de terrasse",
+    "category": "Architecture · modules de scène",
+    "bytes": 270904,
+    "bounds": [
+      2.4,
+      0.6,
+      1.1999999999999997
+    ]
+  },
+  {
+    "id": "wp-cabine-acoustique",
+    "name": "Cabine acoustique",
+    "category": "Architecture · modules de scène",
+    "bytes": 113072,
+    "bounds": [
+      1.2,
+      2.2,
+      1.2
+    ]
+  },
+  {
+    "id": "wp-dalle-de-chemin",
+    "name": "Dalle de chemin",
+    "category": "Architecture · modules de scène",
+    "bytes": 3488,
+    "bounds": [
+      0.6000000000000001,
+      0.07999999999999999,
+      0.45
+    ]
+  },
+  {
+    "id": "wp-paquet-de-riz",
+    "name": "Paquet de riz",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 34700,
+    "bounds": [
+      0.14,
+      0.22,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-paquet-de-pates",
+    "name": "Paquet de pâtes",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 34708,
+    "bounds": [
+      0.12,
+      0.26,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-pomme-de-terre",
+    "name": "Pomme de terre",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 95668,
+    "bounds": [
+      0.09,
+      0.07,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-plaquette-de-beurre",
+    "name": "Plaquette de beurre",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 34708,
+    "bounds": [
+      0.14,
+      0.045,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-pot-de-creme-fraiche",
+    "name": "Pot de crème fraîche",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 29876,
+    "bounds": [
+      0.09,
+      0.10999999999999999,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-paquet-de-sucre",
+    "name": "Paquet de sucre",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 23304,
+    "bounds": [
+      0.12,
+      0.18,
+      0.08000000000000002
+    ]
+  },
+  {
+    "id": "wp-pot-de-moutarde",
+    "name": "Pot de moutarde",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 30120,
+    "bounds": [
+      0.08,
+      0.12,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-bouteille-de-vinaigre",
+    "name": "Bouteille de vinaigre",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 64300,
+    "bounds": [
+      0.08,
+      0.28,
+      0.07999999999999999
+    ]
+  },
+  {
+    "id": "wp-gousse-d-ail",
+    "name": "Gousse d’ail",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 140908,
+    "bounds": [
+      0.065,
+      0.07,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-oignon-jaune",
+    "name": "Oignon jaune",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 34248,
+    "bounds": [
+      0.09,
+      0.1,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-echalote",
+    "name": "Échalote",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 26920,
+    "bounds": [
+      0.06,
+      0.11,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-boite-de-conserve",
+    "name": "Boîte de conserve",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 48420,
+    "bounds": [
+      0.085,
+      0.11,
+      0.085
+    ]
+  },
+  {
+    "id": "wp-bocal-de-cornichons",
+    "name": "Bocal de cornichons",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 94856,
+    "bounds": [
+      0.09,
+      0.15,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-tablette-de-chocolat",
+    "name": "Tablette de chocolat",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 124248,
+    "bounds": [
+      0.18,
+      0.014999999999999996,
+      0.09
+    ]
+  },
+  {
+    "id": "wp-sachet-de-levure",
+    "name": "Sachet de levure",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 45816,
+    "bounds": [
+      0.08,
+      0.12,
+      0.005000000000000001
+    ]
+  },
+  {
+    "id": "wp-boite-de-the",
+    "name": "Boîte de thé",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 35828,
+    "bounds": [
+      0.1,
+      0.11999999999999998,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-paquet-de-cafe-moulu",
+    "name": "Paquet de café moulu",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 23224,
+    "bounds": [
+      0.1,
+      0.18,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-huile-d-olive-de-provence",
+    "name": "Huile d’olive de Provence",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 64300,
+    "bounds": [
+      0.085,
+      0.31,
+      0.085
+    ]
+  },
+  {
+    "id": "wp-fleur-de-sel-de-guerande",
+    "name": "Fleur de sel de Guérande",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 30124,
+    "bounds": [
+      0.1,
+      0.08,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-bouquet-garni",
+    "name": "Bouquet garni",
+    "category": "Cuisine · épicerie et féculents",
+    "bytes": 112148,
+    "bounds": [
+      0.18000000000000002,
+      0.06,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-courgette",
+    "name": "Courgette",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 34444,
+    "bounds": [
+      0.06,
+      0.24,
+      0.05999999999999999
+    ]
+  },
+  {
+    "id": "wp-salade-verte",
+    "name": "Salade verte",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 170936,
+    "bounds": [
+      0.21999999999999997,
+      0.15000000000000002,
+      0.22
+    ]
+  },
+  {
+    "id": "wp-concombre",
+    "name": "Concombre",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 121872,
+    "bounds": [
+      0.05500000000000001,
+      0.28,
+      0.055
+    ]
+  },
+  {
+    "id": "wp-haricots-verts",
+    "name": "Haricots verts",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 60920,
+    "bounds": [
+      0.15,
+      0.039999999999999994,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-petits-pois-en-cosses",
+    "name": "Petits pois en cosses",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 78620,
+    "bounds": [
+      0.14,
+      0.035,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-navet",
+    "name": "Navet",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 95632,
+    "bounds": [
+      0.08,
+      0.11,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-branche-de-celeri",
+    "name": "Branche de céleri",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 105380,
+    "bounds": [
+      0.08999999999999997,
+      0.31999999999999995,
+      0.07
+    ]
+  },
+  {
+    "id": "wp-artichaut",
+    "name": "Artichaut",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 178076,
+    "bounds": [
+      0.13,
+      0.16,
+      0.13
+    ]
+  },
+  {
+    "id": "wp-radis-rose",
+    "name": "Radis rose",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 95532,
+    "bounds": [
+      0.04,
+      0.1,
+      0.04
+    ]
+  },
+  {
+    "id": "wp-epinards",
+    "name": "Épinards",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 114104,
+    "bounds": [
+      0.2,
+      0.12,
+      0.2
+    ]
+  },
+  {
+    "id": "wp-asperges",
+    "name": "Asperges",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 89532,
+    "bounds": [
+      0.08,
+      0.21999999999999997,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-peche",
+    "name": "Pêche",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 65140,
+    "bounds": [
+      0.08,
+      0.08000000000000002,
+      0.08
+    ]
+  },
+  {
+    "id": "wp-abricot",
+    "name": "Abricot",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 27028,
+    "bounds": [
+      0.065,
+      0.06500000000000002,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-cerise",
+    "name": "Cerise",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 72288,
+    "bounds": [
+      0.09,
+      0.11000000000000001,
+      0.045
+    ]
+  },
+  {
+    "id": "wp-prune",
+    "name": "Prune",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 26960,
+    "bounds": [
+      0.06,
+      0.07,
+      0.06
+    ]
+  },
+  {
+    "id": "wp-melon-de-cavaillon",
+    "name": "Melon de Cavaillon",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 127228,
+    "bounds": [
+      0.18,
+      0.17,
+      0.18
+    ]
+  },
+  {
+    "id": "wp-poire-william",
+    "name": "Poire William",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 46172,
+    "bounds": [
+      0.08500000000000002,
+      0.14,
+      0.08500000000000002
+    ]
+  },
+  {
+    "id": "wp-figues",
+    "name": "Figues",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 27100,
+    "bounds": [
+      0.065,
+      0.07,
+      0.065
+    ]
+  },
+  {
+    "id": "wp-framboises",
+    "name": "Framboises",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 284876,
+    "bounds": [
+      0.1,
+      0.05,
+      0.1
+    ]
+  },
+  {
+    "id": "wp-noix-de-grenoble",
+    "name": "Noix de Grenoble",
+    "category": "Cuisine · fruits et légumes du marché",
+    "bytes": 36556,
+    "bounds": [
+      0.08,
+      0.05000000000000001,
+      0.08
+    ]
+  }
+]

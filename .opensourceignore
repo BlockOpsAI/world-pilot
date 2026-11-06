@@ -1,0 +1,61 @@
+# Secrets and Environment Variables
+/.env
+/.env.*
+!/.env.example
+
+# Root Internal Research, Scientific Paper Dossier and Frozen Protocols (strictly at repository root)
+/research/
+/doc-research/
+/WORLDPILOT_BLIND_EVAL_RUNNER_FROZEN.zip
+/WORLDPILOT_EO_BENCH_V2_FINAL_AUDIT.zip
+/WORLDPILOT_EOBENCH_*.zip
+/WORLDPILOT_EOBENCH_*.tar.gz
+/WORLDPILOT_EOBENCH_CONSOLIDATED_AUDIT_REPORT.md
+/audit_archive_staging/
+/download_eobench_v2_2.html
+/scratch/
+
+# Dependencies and Build Artifacts
+node_modules/
+.pnpm-store/
+dist/
+dist-ssr/
+build/
+.cache/
+coverage/
+.tmp/
+tmp/
+temp/
+temp-vite/
+
+# Operating System and Editor Files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Internal Research Documentation & Failure Catalogs (kept in private repo)
+docs/DOSSIER_AUDIT_FINAL_POUR_PAPIER.md
+docs/EO_BENCH_V2_*.md
+docs/PAPER_SYNTHESIS.md
+docs/PRE_REGISTRATION.md
+docs/README_AUDIT.md
+docs/REPONSE_AGENT_RECHERCHE_*.md
+docs/REPRODUCE_EO_BENCH_V2.md
+docs/RESEARCH_NOTES.md
+docs/RESEARCH_PAPER_SPECIFICATION.md
+docs/RESPONSE_TO_RESEARCH_PAPER_*.md
+docs/TEST_LOCKED_STATUS.md
+docs/benchmark_card.md
+docs/calibration_report.md
+docs/failure_catalog.md
+docs/paper_arxiv.md
+docs/reproducibility.md
+docs/worldpilot_failures.md
+docs/CHATGPT_WRITING_DOSSIER.md
+docs/HEADLESS_PROXY_LIMITATION.md
+docs/EDIT_ORDER_RESEARCH_REPORT.md
+
+# Scripts Internal
+scripts/research/
